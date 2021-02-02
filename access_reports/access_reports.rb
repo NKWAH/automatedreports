@@ -3,6 +3,8 @@ load "nick_reporting/access_reports/access_report_methods.rb"
 load "nick_reporting/company_users.rb"
 load "nick_reporting/session_questionnaires.rb"
 
+ARGV = ["2020-04-01", "2020-12-31", 3, "Redox", "large", "plus", "stub", "csv"]
+
 start = ARGV[0].to_date.beginning_of_day
 if ARGV[6] == "stub"
     if start.day <= 15
