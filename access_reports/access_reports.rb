@@ -324,7 +324,7 @@ srs = "#{((first + second[:srs]) * 10 /2).round(2)}%"
 average_hours_per_user = "#{((bite + access + sale)/total_paid_users_count).round(2)}"
 
 require "csv"
-country = "cad"
+country = "us"
 CSV.open("#{Rails.root.join('tmp').to_s}/access_report_#{country}.csv", 'w') do |writer|
     writer << [ARGV[3]]
     writer << ["Start of contract year", contract_year_start]
