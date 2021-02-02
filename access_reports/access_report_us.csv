@@ -1,0 +1,77 @@
+Redox
+Start of contract year,2020-04-01 00:00:00 -0400
+Report Dates,2020-4-1 - 2020-12-31
+Title Dates,2020-4-1 - 2020-12-31
+Group,Q1,Q2,Q3,Q4,YTD
+Accessing Users,10,4,0,0,14
+Paid Users,5,4,0,0,9
+Employees accessing full bite,9
+Employees accessing full access,0
+Dependants accessing full bite,0
+Dependants accessing full access,0
+Total,16.5
+Bite usage,10.5
+Access usage,0.0
+Sale usage,6.0
+Average hours per user,1.83
+ors,62.58%
+srs,91.61%
+Total Population,171
+Group,Q1,Q2,Q3,Q4,YTD,%
+Status
+Employee,10,4,0,,14,100.0%
+Gender
+Male,2,1,0,,3,21.43%
+Female,8,3,0,,11,78.57%
+Other,0,0,0,,0,0.0%
+NA,0,0,0,,0,0.0%
+Age
+20 and under,1,0,0,,1,7.14%
+21 - 30,4,1,0,,5,35.71%
+31 - 40,3,3,0,,6,42.86%
+41 - 50,2,0,0,,2,14.29%
+51 - 60,0,0,0,,0,0.0%
+61+,0,0,0,,0,0.0%
+nil,0,0,0,,0,0.0%
+Generation
+Gen Z,0,0,0,,0,0.0%
+Millennials,7,4,0,,11,78.57%
+Gen X,2,0,0,,2,14.29%
+Baby Boomer,0,0,0,,0,0.0%
+nil,1,0,0,,1,7.14%
+Custom1
+,10,4,0,,14,100.0%
+Custom2
+,10,4,0,,14,100.0%
+Custom3
+,10,4,0,,14,100.0%
+Custom4
+,10,4,0,,14,100.0%
+Personal Stressors
+Stress,9,4,0,,13,92.86%
+Depression,6,4,0,,10,71.43%
+Anxiety,8,3,0,,11,78.57%
+Grief & Loss,3,0,0,,3,21.43%
+Loneliness,4,2,0,,6,42.86%
+Personal,7,3,0,,10,71.43%
+Substance Use,0,0,0,,0,0.0%
+Trauma,1,0,0,,1,7.14%
+Abuse,1,0,0,,1,7.14%
+Marital/relationships,5,2,0,,7,50.0%
+Family,3,1,0,,4,28.57%
+Health,3,0,0,,3,21.43%
+Financial,2,1,0,,3,21.43%
+Legal,1,0,0,,1,7.14%
+Parenting,1,1,0,,2,14.29%
+Workplace Stressors
+High Workload,3,2,0,,5,35.71%
+Lack of Control,4,1,0,,5,35.71%
+Poor Management,2,0,0,,2,14.29%
+High Conflict,0,0,0,,0,0.0%
+Job Uncertainty,5,2,0,,7,50.0%
+Work-Life Balance,1,0,0,,1,7.14%
+Harassment,0,0,0,,0,0.0%
+Discrimination,0,1,0,,1,7.14%
+Not Appreciated,0,1,0,,1,7.14%
+Unfair Treatment,0,1,0,,1,7.14%
+Not Meaningful,2,1,0,,3,21.43%
