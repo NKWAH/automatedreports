@@ -1,9 +1,13 @@
+#This doesn't check for when users are removed
+#There might be a crazy SQL way to do it, but you can just join user_companies and do one query for removed users where the usage is less than their removed_at, one query without that for non-removed
+#Old one didn't check either, also 2 PC users ever have been removed
+#Consider changing total_onboarded to active_in_period
 load "nick_reporting/test_data.rb"
 load "nick_reporting/pc_reports/pc_dashboard_methods.rb"
 load "nick_reporting/session_questionnaires.rb"
 load "nick_reporting/company_users.rb"
 
-#ARGV = ["2021-01-01", "2021-01-31", "MNP LLP"]
+#ARGV = ["2021-01-01", "2021-01-31", "Bimbo Canada"]
 
 start = ARGV[0].to_date.beginning_of_day
 stop = ARGV[1].to_date.end_of_day
@@ -332,25 +336,6 @@ work = work.sort_by {|k,v| [-v, k]}
 min_count = work[4][1]
 work = work.select {|k,v| v >= [min_count, 1].max }
 
-new_registrations.size
-cumulative_registrations.size
-population
-utilization_rate
-pp cumulative_account_types
-kb.size
-kb_utilization
-started_assessment_users.size
-finished_assessments.size
-counselling_after_assessment
-utilized_counselling.size
-completed_sessions.size
-pp gender
-pp age
-ors[:percent]
-srs
-pp personal
-pp work
-
 require "csv"
 CSV.open("#{Rails.root.join('public/reports').to_s}/pc_client_dashboard.csv", 'w') do |writer|
     writer << ["Company Name", ARGV[2]]
@@ -390,3 +375,7 @@ CSV.open("#{Rails.root.join('public/reports').to_s}/pc_client_dashboard.csv", 'w
         writer << metric
     end
 end
+
+#cd Downloads
+#rsync -azP --stats https://api.inkblotpractice.com/pc_client_dashboard.csv
+#rsync -azP --stats deploy-inkblot-us-prod-1.medstack.net:~/medapi.inkblottherapy.com/current/tmp/pc_client_dashboard.csv .
