@@ -1,0 +1,2401 @@
+User_ID,Evaluation_ID,Question ID,Question Text,Value
+59419,4203,1,Individual,4
+59419,4203,2,Interpersonal,4
+59419,4203,3,Social,4
+59419,4203,4,Overall,4
+59419,4203,5,Feel you had nothing to look forward to?,1
+59419,4203,6,Feel that life was meaningless?,0
+59419,4203,7,Feel scared without any good reason?,0
+59419,4203,8,Feel you were close to panic?,1
+59419,4203,9,Found it hard to wind down?,0
+59448,4204,1,Individual,3
+59448,4204,2,Interpersonal,4
+59448,4204,3,Social,4
+59448,4204,4,Overall,3
+59448,4204,5,Feel you had nothing to look forward to?,1
+59448,4204,6,Feel that life was meaningless?,0
+59448,4204,7,Feel scared without any good reason?,0
+59448,4204,8,Feel you were close to panic?,0
+59448,4204,9,Found it hard to wind down?,1
+59448,4204,10,Feel intolerant of anything that kept you from what you were doing?,0
+59448,4204,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59448,4204,12,Get behind in your work?,3
+59448,4204,13,Influence decisions concerning your work?,1
+59448,4204,14,Find your work meaningful?,3
+59448,4204,16,Feel treated fairly at work?,3
+59419,4203,13,Influence decisions concerning your work?,1
+59137,4207,9,Found it hard to wind down?,0
+59137,4207,19,Feel that management trusted the employees to do their work well?,1
+59361,4208,10,Feel intolerant of anything that kept you from what you were doing?,2
+59361,4208,16,Feel treated fairly at work?,3
+59361,4208,23,Get exposed to undesired sexual attention or violence?,0
+59305,4209,12,Get behind in your work?,0
+59392,4219,13,Influence decisions concerning your work?,3
+59448,4204,15,Feel recognized and appreciated at work?,3
+59419,4203,23,Get exposed to undesired sexual attention or violence?,0
+59361,4208,15,Feel recognized and appreciated at work?,3
+59361,4208,22,Feel work negatively affected your private life?,1
+59233,4215,15,Feel recognized and appreciated at work?,2
+59230,4222,17,Feel there is a good relationship with your colleagues?,3
+59230,4222,22,Feel work negatively affected your private life?,0
+59224,4224,9,Found it hard to wind down?,0
+59373,4235,4,Overall,3
+59129,4241,9,Found it hard to wind down?,3
+59216,4243,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59216,4243,17,Feel there is a good relationship with your colleagues?,3
+59216,4243,18,Worry about becoming unemployed or being transferred against your will?,0
+59129,4241,23,Get exposed to undesired sexual attention or violence?,0
+59448,4204,17,Feel there is a good relationship with your colleagues?,3
+59305,4209,1,Individual,2
+59233,4215,16,Feel treated fairly at work?,2
+59392,4219,4,Overall,3
+59392,4219,10,Feel intolerant of anything that kept you from what you were doing?,2
+59392,4219,21,Feel conflicts were resolved in a fair way?,3
+59224,4224,5,Feel you had nothing to look forward to?,0
+59373,4235,1,Individual,3
+59448,4204,18,Worry about becoming unemployed or being transferred against your will?,1
+59419,4203,17,Feel there is a good relationship with your colleagues?,3
+59448,4204,19,Feel that management trusted the employees to do their work well?,2
+59419,4203,16,Feel treated fairly at work?,3
+59379,4212,3,Social,2
+59379,4212,21,Feel conflicts were resolved in a fair way?,2
+59256,4220,2,Interpersonal,3
+59224,4224,1,Individual,4
+59224,4224,7,Feel scared without any good reason?,0
+59373,4235,20,Trust management?,1
+59216,4243,2,Interpersonal,5
+59216,4243,15,Feel recognized and appreciated at work?,3
+59448,4204,20,Trust management?,3
+59448,4204,21,Feel conflicts were resolved in a fair way?,0
+59448,4204,22,Feel work negatively affected your private life?,0
+59137,4207,4,Overall,3
+59137,4207,20,Trust management?,2
+59361,4208,5,Feel you had nothing to look forward to?,3
+59256,4220,14,Find your work meaningful?,2
+59256,4220,23,Get exposed to undesired sexual attention or violence?,0
+59230,4222,4,Overall,4
+59448,4204,23,Get exposed to undesired sexual attention or violence?,0
+59419,4203,22,Feel work negatively affected your private life?,0
+59137,4207,22,Feel work negatively affected your private life?,1
+59361,4208,1,Individual,2
+59305,4209,15,Feel recognized and appreciated at work?,1
+59379,4212,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59379,4212,22,Feel work negatively affected your private life?,0
+59233,4215,20,Trust management?,2
+59233,4215,21,Feel conflicts were resolved in a fair way?,2
+59233,4215,22,Feel work negatively affected your private life?,1
+59392,4219,5,Feel you had nothing to look forward to?,2
+59256,4220,16,Feel treated fairly at work?,3
+59230,4222,10,Feel intolerant of anything that kept you from what you were doing?,0
+59224,4224,8,Feel you were close to panic?,0
+59216,4243,1,Individual,4
+59129,4241,12,Get behind in your work?,2
+59448,4204,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59361,4208,6,Feel that life was meaningless?,1
+59305,4209,13,Influence decisions concerning your work?,1
+59379,4212,4,Overall,2
+59379,4212,6,Feel that life was meaningless?,1
+59233,4215,3,Social,4
+59233,4215,6,Feel that life was meaningless?,0
+59419,4203,10,Feel intolerant of anything that kept you from what you were doing?,1
+59137,4207,7,Feel scared without any good reason?,1
+59137,4207,12,Get behind in your work?,2
+59361,4208,7,Feel scared without any good reason?,1
+59361,4208,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59305,4209,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59256,4220,19,Feel that management trusted the employees to do their work well?,3
+59230,4222,7,Feel scared without any good reason?,0
+59419,4203,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59419,4203,18,Worry about becoming unemployed or being transferred against your will?,0
+59361,4208,18,Worry about becoming unemployed or being transferred against your will?,0
+59305,4209,9,Found it hard to wind down?,1
+59419,4203,12,Get behind in your work?,1
+59419,4203,14,Find your work meaningful?,2
+59419,4203,15,Feel recognized and appreciated at work?,1
+59419,4203,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59137,4207,18,Worry about becoming unemployed or being transferred against your will?,0
+59361,4208,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59305,4209,5,Feel you had nothing to look forward to?,3
+59379,4212,7,Feel scared without any good reason?,1
+59379,4212,23,Get exposed to undesired sexual attention or violence?,0
+59233,4215,14,Find your work meaningful?,2
+59233,4215,23,Get exposed to undesired sexual attention or violence?,0
+59373,4235,10,Feel intolerant of anything that kept you from what you were doing?,2
+59129,4241,1,Individual,1
+59216,4243,23,Get exposed to undesired sexual attention or violence?,0
+59216,4243,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59129,4241,22,Feel work negatively affected your private life?,1
+59419,4203,19,Feel that management trusted the employees to do their work well?,3
+59419,4203,20,Trust management?,3
+59419,4203,21,Feel conflicts were resolved in a fair way?,3
+59137,4207,13,Influence decisions concerning your work?,1
+59361,4208,3,Social,3
+59361,4208,8,Feel you were close to panic?,2
+59361,4208,19,Feel that management trusted the employees to do their work well?,3
+59305,4209,14,Find your work meaningful?,1
+59379,4212,20,Trust management?,2
+59256,4220,20,Trust management?,3
+59230,4222,21,Feel conflicts were resolved in a fair way?,3
+59137,4207,2,Interpersonal,3
+59137,4207,3,Social,3
+59137,4207,5,Feel you had nothing to look forward to?,1
+59137,4207,6,Feel that life was meaningless?,1
+59137,4207,10,Feel intolerant of anything that kept you from what you were doing?,1
+59137,4207,14,Find your work meaningful?,1
+59137,4207,17,Feel there is a good relationship with your colleagues?,2
+59137,4207,21,Feel conflicts were resolved in a fair way?,2
+59305,4209,3,Social,4
+59305,4209,4,Overall,3
+59305,4209,6,Feel that life was meaningless?,2
+59305,4209,7,Feel scared without any good reason?,1
+59305,4209,16,Feel treated fairly at work?,2
+59305,4209,17,Feel there is a good relationship with your colleagues?,3
+59305,4209,20,Trust management?,2
+59305,4209,22,Feel work negatively affected your private life?,0
+59379,4212,10,Feel intolerant of anything that kept you from what you were doing?,2
+59233,4215,7,Feel scared without any good reason?,0
+59233,4215,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59233,4215,18,Worry about becoming unemployed or being transferred against your will?,1
+59233,4215,19,Feel that management trusted the employees to do their work well?,2
+59392,4219,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59392,4219,22,Feel work negatively affected your private life?,0
+59256,4220,6,Feel that life was meaningless?,1
+59256,4220,17,Feel there is a good relationship with your colleagues?,3
+59256,4220,22,Feel work negatively affected your private life?,0
+59230,4222,8,Feel you were close to panic?,0
+59230,4222,13,Influence decisions concerning your work?,1
+59230,4222,15,Feel recognized and appreciated at work?,3
+59224,4224,4,Overall,3
+59224,4224,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59373,4235,3,Social,3
+59373,4235,9,Found it hard to wind down?,2
+59216,4243,12,Get behind in your work?,0
+59137,4207,1,Individual,3
+59137,4207,8,Feel you were close to panic?,1
+59137,4207,15,Feel recognized and appreciated at work?,1
+59137,4207,16,Feel treated fairly at work?,2
+59137,4207,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59361,4208,2,Interpersonal,2
+59361,4208,4,Overall,2
+59361,4208,12,Get behind in your work?,2
+59361,4208,21,Feel conflicts were resolved in a fair way?,2
+59305,4209,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59305,4209,19,Feel that management trusted the employees to do their work well?,2
+59305,4209,21,Feel conflicts were resolved in a fair way?,2
+59379,4212,2,Interpersonal,3
+59379,4212,8,Feel you were close to panic?,1
+59379,4212,12,Get behind in your work?,0
+59379,4212,13,Influence decisions concerning your work?,0
+59379,4212,14,Find your work meaningful?,1
+59379,4212,15,Feel recognized and appreciated at work?,1
+59379,4212,19,Feel that management trusted the employees to do their work well?,2
+59379,4212,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59233,4215,9,Found it hard to wind down?,2
+59233,4215,13,Influence decisions concerning your work?,2
+59233,4215,17,Feel there is a good relationship with your colleagues?,2
+59392,4219,3,Social,3
+59392,4219,9,Found it hard to wind down?,3
+59392,4219,19,Feel that management trusted the employees to do their work well?,3
+59256,4220,3,Social,3
+59256,4220,5,Feel you had nothing to look forward to?,2
+59256,4220,18,Worry about becoming unemployed or being transferred against your will?,1
+59256,4220,21,Feel conflicts were resolved in a fair way?,3
+59230,4222,6,Feel that life was meaningless?,0
+59230,4222,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59137,4207,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59137,4207,23,Get exposed to undesired sexual attention or violence?,0
+59361,4208,9,Found it hard to wind down?,3
+59305,4209,2,Interpersonal,4
+59361,4208,13,Influence decisions concerning your work?,3
+59361,4208,17,Feel there is a good relationship with your colleagues?,3
+59305,4209,8,Feel you were close to panic?,0
+59305,4209,18,Worry about becoming unemployed or being transferred against your will?,1
+59379,4212,5,Feel you had nothing to look forward to?,2
+59379,4212,9,Found it hard to wind down?,1
+59379,4212,16,Feel treated fairly at work?,2
+59379,4212,17,Feel there is a good relationship with your colleagues?,2
+59233,4215,1,Individual,4
+59233,4215,2,Interpersonal,4
+59233,4215,8,Feel you were close to panic?,1
+59392,4219,16,Feel treated fairly at work?,3
+59392,4219,17,Feel there is a good relationship with your colleagues?,2
+59392,4219,23,Get exposed to undesired sexual attention or violence?,0
+59256,4220,4,Overall,2
+59361,4208,14,Find your work meaningful?,2
+59361,4208,20,Trust management?,3
+59305,4209,10,Feel intolerant of anything that kept you from what you were doing?,2
+59305,4209,23,Get exposed to undesired sexual attention or violence?,0
+59379,4212,1,Individual,2
+59379,4212,18,Worry about becoming unemployed or being transferred against your will?,1
+59233,4215,4,Overall,4
+59233,4215,5,Feel you had nothing to look forward to?,1
+59233,4215,10,Feel intolerant of anything that kept you from what you were doing?,1
+59233,4215,12,Get behind in your work?,1
+59233,4215,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59392,4219,1,Individual,2
+59392,4219,2,Interpersonal,2
+59392,4219,6,Feel that life was meaningless?,1
+59392,4219,7,Feel scared without any good reason?,0
+59392,4219,8,Feel you were close to panic?,1
+59392,4219,12,Get behind in your work?,1
+59392,4219,14,Find your work meaningful?,3
+59392,4219,15,Feel recognized and appreciated at work?,2
+59392,4219,18,Worry about becoming unemployed or being transferred against your will?,1
+59392,4219,20,Trust management?,3
+59392,4219,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59256,4220,1,Individual,2
+59256,4220,7,Feel scared without any good reason?,2
+59256,4220,8,Feel you were close to panic?,0
+59256,4220,9,Found it hard to wind down?,1
+59256,4220,10,Feel intolerant of anything that kept you from what you were doing?,1
+59256,4220,11,"Feel guilty about substance use (alcohol, drugs, etc)?",2
+59256,4220,12,Get behind in your work?,0
+59256,4220,13,Influence decisions concerning your work?,1
+59256,4220,15,Feel recognized and appreciated at work?,2
+59256,4220,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59230,4222,1,Individual,4
+59230,4222,2,Interpersonal,4
+59230,4222,3,Social,4
+59230,4222,5,Feel you had nothing to look forward to?,0
+59230,4222,9,Found it hard to wind down?,1
+59230,4222,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59230,4222,12,Get behind in your work?,1
+59230,4222,14,Find your work meaningful?,3
+59230,4222,16,Feel treated fairly at work?,3
+59230,4222,18,Worry about becoming unemployed or being transferred against your will?,0
+59230,4222,19,Feel that management trusted the employees to do their work well?,3
+59230,4222,20,Trust management?,3
+59230,4222,23,Get exposed to undesired sexual attention or violence?,0
+59224,4224,2,Interpersonal,4
+59224,4224,3,Social,4
+59224,4224,6,Feel that life was meaningless?,0
+59224,4224,10,Feel intolerant of anything that kept you from what you were doing?,1
+59224,4224,12,Get behind in your work?,1
+59224,4224,13,Influence decisions concerning your work?,1
+59224,4224,14,Find your work meaningful?,2
+59224,4224,15,Feel recognized and appreciated at work?,3
+59224,4224,16,Feel treated fairly at work?,2
+59224,4224,17,Feel there is a good relationship with your colleagues?,2
+59224,4224,18,Worry about becoming unemployed or being transferred against your will?,1
+59224,4224,19,Feel that management trusted the employees to do their work well?,1
+59224,4224,20,Trust management?,1
+59224,4224,21,Feel conflicts were resolved in a fair way?,3
+59224,4224,22,Feel work negatively affected your private life?,1
+59224,4224,23,Get exposed to undesired sexual attention or violence?,0
+59224,4224,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59373,4235,17,Feel there is a good relationship with your colleagues?,1
+59129,4241,5,Feel you had nothing to look forward to?,2
+59373,4235,8,Feel you were close to panic?,2
+59373,4235,11,"Feel guilty about substance use (alcohol, drugs, etc)?",2
+59373,4235,14,Find your work meaningful?,1
+59373,4235,15,Feel recognized and appreciated at work?,2
+59129,4241,3,Social,2
+59216,4243,4,Overall,4
+59129,4241,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59373,4235,21,Feel conflicts were resolved in a fair way?,1
+59129,4241,8,Feel you were close to panic?,3
+59129,4241,7,Feel scared without any good reason?,3
+59129,4241,4,Overall,1
+59216,4243,5,Feel you had nothing to look forward to?,0
+59129,4241,14,Find your work meaningful?,1
+59129,4241,18,Worry about becoming unemployed or being transferred against your will?,2
+59129,4241,10,Feel intolerant of anything that kept you from what you were doing?,1
+59373,4235,2,Interpersonal,4
+59373,4235,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59129,4241,6,Feel that life was meaningless?,2
+59373,4235,6,Feel that life was meaningless?,1
+59373,4235,13,Influence decisions concerning your work?,1
+59373,4235,16,Feel treated fairly at work?,2
+59373,4235,5,Feel you had nothing to look forward to?,1
+59373,4235,7,Feel scared without any good reason?,1
+59373,4235,19,Feel that management trusted the employees to do their work well?,2
+59216,4243,13,Influence decisions concerning your work?,2
+59373,4235,12,Get behind in your work?,1
+59373,4235,18,Worry about becoming unemployed or being transferred against your will?,1
+59129,4241,2,Interpersonal,2
+59373,4235,22,Feel work negatively affected your private life?,2
+59216,4243,3,Social,4
+59373,4235,23,Get exposed to undesired sexual attention or violence?,0
+59216,4243,6,Feel that life was meaningless?,0
+59216,4243,7,Feel scared without any good reason?,1
+59216,4243,8,Feel you were close to panic?,0
+59216,4243,9,Found it hard to wind down?,3
+59216,4243,10,Feel intolerant of anything that kept you from what you were doing?,1
+59129,4241,13,Influence decisions concerning your work?,2
+59216,4243,14,Find your work meaningful?,0
+59129,4241,15,Feel recognized and appreciated at work?,0
+59129,4241,16,Feel treated fairly at work?,2
+59216,4243,16,Feel treated fairly at work?,3
+59129,4241,17,Feel there is a good relationship with your colleagues?,2
+59216,4243,19,Feel that management trusted the employees to do their work well?,2
+59216,4243,20,Trust management?,2
+59216,4243,21,Feel conflicts were resolved in a fair way?,2
+59216,4243,22,Feel work negatively affected your private life?,0
+59129,4241,19,Feel that management trusted the employees to do their work well?,2
+59129,4241,20,Trust management?,2
+59129,4241,21,Feel conflicts were resolved in a fair way?,3
+59129,4241,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59516,4296,3,Social,5
+59264,4297,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59516,4296,12,Get behind in your work?,1
+59516,4296,15,Feel recognized and appreciated at work?,2
+59264,4297,8,Feel you were close to panic?,0
+59516,4296,1,Individual,5
+59264,4297,12,Get behind in your work?,0
+59264,4297,15,Feel recognized and appreciated at work?,3
+59264,4297,18,Worry about becoming unemployed or being transferred against your will?,0
+59516,4296,22,Feel work negatively affected your private life?,0
+59264,4297,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59264,4297,22,Feel work negatively affected your private life?,0
+59163,4302,17,Feel there is a good relationship with your colleagues?,1
+59264,4297,14,Find your work meaningful?,3
+59163,4302,6,Feel that life was meaningless?,0
+59163,4302,18,Worry about becoming unemployed or being transferred against your will?,1
+59516,4296,13,Influence decisions concerning your work?,2
+59264,4297,5,Feel you had nothing to look forward to?,0
+59163,4302,1,Individual,4
+59516,4296,17,Feel there is a good relationship with your colleagues?,3
+59516,4296,2,Interpersonal,5
+59516,4296,4,Overall,5
+59516,4296,5,Feel you had nothing to look forward to?,0
+59516,4296,6,Feel that life was meaningless?,0
+59516,4296,7,Feel scared without any good reason?,1
+59516,4296,8,Feel you were close to panic?,0
+59516,4296,9,Found it hard to wind down?,0
+59516,4296,10,Feel intolerant of anything that kept you from what you were doing?,1
+59516,4296,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59516,4296,14,Find your work meaningful?,2
+59516,4296,16,Feel treated fairly at work?,3
+59516,4296,18,Worry about becoming unemployed or being transferred against your will?,0
+59516,4296,19,Feel that management trusted the employees to do their work well?,3
+59516,4296,20,Trust management?,2
+59516,4296,21,Feel conflicts were resolved in a fair way?,3
+59516,4296,23,Get exposed to undesired sexual attention or violence?,0
+59516,4296,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59264,4297,1,Individual,5
+59264,4297,2,Interpersonal,5
+59264,4297,3,Social,5
+59264,4297,4,Overall,5
+59264,4297,6,Feel that life was meaningless?,0
+59264,4297,7,Feel scared without any good reason?,0
+59264,4297,9,Found it hard to wind down?,0
+59264,4297,10,Feel intolerant of anything that kept you from what you were doing?,0
+59264,4297,13,Influence decisions concerning your work?,3
+59264,4297,16,Feel treated fairly at work?,3
+59264,4297,17,Feel there is a good relationship with your colleagues?,3
+59264,4297,19,Feel that management trusted the employees to do their work well?,3
+59264,4297,20,Trust management?,3
+59163,4302,8,Feel you were close to panic?,1
+59264,4297,21,Feel conflicts were resolved in a fair way?,3
+59264,4297,23,Get exposed to undesired sexual attention or violence?,0
+59163,4302,14,Find your work meaningful?,0
+59163,4302,23,Get exposed to undesired sexual attention or violence?,0
+59163,4302,2,Interpersonal,4
+59163,4302,9,Found it hard to wind down?,2
+59163,4302,22,Feel work negatively affected your private life?,2
+59163,4302,10,Feel intolerant of anything that kept you from what you were doing?,1
+59163,4302,21,Feel conflicts were resolved in a fair way?,1
+59163,4302,20,Trust management?,1
+59163,4302,19,Feel that management trusted the employees to do their work well?,1
+59163,4302,3,Social,3
+59163,4302,4,Overall,3
+59163,4302,5,Feel you had nothing to look forward to?,1
+59163,4302,7,Feel scared without any good reason?,0
+59163,4302,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59163,4302,12,Get behind in your work?,2
+59163,4302,13,Influence decisions concerning your work?,1
+59163,4302,15,Feel recognized and appreciated at work?,1
+59163,4302,16,Feel treated fairly at work?,1
+59163,4302,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59490,4349,1,Individual,4
+59490,4349,2,Interpersonal,5
+59490,4349,3,Social,3
+59490,4349,4,Overall,4
+59490,4349,5,Feel you had nothing to look forward to?,1
+59490,4349,6,Feel that life was meaningless?,1
+59490,4349,7,Feel scared without any good reason?,0
+59490,4349,8,Feel you were close to panic?,1
+59490,4349,9,Found it hard to wind down?,1
+59490,4349,10,Feel intolerant of anything that kept you from what you were doing?,1
+59490,4349,15,Feel recognized and appreciated at work?,1
+59490,4349,23,Get exposed to undesired sexual attention or violence?,0
+59490,4349,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59490,4349,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59490,4349,19,Feel that management trusted the employees to do their work well?,3
+59490,4349,20,Trust management?,1
+59490,4349,22,Feel work negatively affected your private life?,2
+59490,4349,12,Get behind in your work?,1
+59490,4349,13,Influence decisions concerning your work?,1
+59490,4349,14,Find your work meaningful?,1
+59490,4349,17,Feel there is a good relationship with your colleagues?,2
+59490,4349,21,Feel conflicts were resolved in a fair way?,1
+59490,4349,16,Feel treated fairly at work?,2
+59490,4349,18,Worry about becoming unemployed or being transferred against your will?,0
+59405,4358,1,Individual,4
+59405,4358,2,Interpersonal,4
+59405,4358,3,Social,4
+59405,4358,4,Overall,5
+59405,4358,5,Feel you had nothing to look forward to?,1
+59405,4358,6,Feel that life was meaningless?,0
+59405,4358,7,Feel scared without any good reason?,0
+59405,4358,8,Feel you were close to panic?,0
+59405,4358,9,Found it hard to wind down?,0
+59405,4358,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59405,4358,10,Feel intolerant of anything that kept you from what you were doing?,1
+59405,4358,15,Feel recognized and appreciated at work?,1
+59405,4358,12,Get behind in your work?,0
+59405,4358,13,Influence decisions concerning your work?,3
+59405,4358,17,Feel there is a good relationship with your colleagues?,3
+59405,4358,23,Get exposed to undesired sexual attention or violence?,0
+59405,4358,14,Find your work meaningful?,2
+59405,4358,16,Feel treated fairly at work?,3
+59405,4358,18,Worry about becoming unemployed or being transferred against your will?,1
+59405,4358,19,Feel that management trusted the employees to do their work well?,3
+59405,4358,20,Trust management?,3
+59405,4358,21,Feel conflicts were resolved in a fair way?,3
+59405,4358,22,Feel work negatively affected your private life?,1
+59405,4358,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59474,4383,1,Individual,4
+59474,4383,2,Interpersonal,4
+59474,4383,3,Social,5
+59474,4383,4,Overall,4
+59474,4383,5,Feel you had nothing to look forward to?,1
+59474,4383,6,Feel that life was meaningless?,0
+59474,4383,7,Feel scared without any good reason?,0
+59474,4383,8,Feel you were close to panic?,0
+59474,4383,9,Found it hard to wind down?,1
+59474,4383,10,Feel intolerant of anything that kept you from what you were doing?,1
+59474,4383,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59474,4383,12,Get behind in your work?,0
+59474,4383,13,Influence decisions concerning your work?,3
+59474,4383,14,Find your work meaningful?,3
+59474,4383,15,Feel recognized and appreciated at work?,3
+59474,4383,16,Feel treated fairly at work?,3
+59474,4383,17,Feel there is a good relationship with your colleagues?,3
+59474,4383,18,Worry about becoming unemployed or being transferred against your will?,0
+59474,4383,19,Feel that management trusted the employees to do their work well?,3
+59474,4383,20,Trust management?,3
+59474,4383,21,Feel conflicts were resolved in a fair way?,3
+59474,4383,22,Feel work negatively affected your private life?,0
+59474,4383,23,Get exposed to undesired sexual attention or violence?,0
+59474,4383,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59183,4390,1,Individual,4
+59183,4390,2,Interpersonal,4
+59183,4390,3,Social,4
+59183,4390,4,Overall,3
+59183,4390,5,Feel you had nothing to look forward to?,1
+59183,4390,6,Feel that life was meaningless?,1
+59183,4390,7,Feel scared without any good reason?,1
+59183,4390,8,Feel you were close to panic?,1
+59183,4390,9,Found it hard to wind down?,1
+59183,4390,10,Feel intolerant of anything that kept you from what you were doing?,1
+59183,4390,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59183,4390,12,Get behind in your work?,1
+59183,4390,13,Influence decisions concerning your work?,2
+59183,4390,14,Find your work meaningful?,2
+59183,4390,15,Feel recognized and appreciated at work?,2
+59183,4390,16,Feel treated fairly at work?,2
+59183,4390,17,Feel there is a good relationship with your colleagues?,3
+59183,4390,18,Worry about becoming unemployed or being transferred against your will?,0
+59183,4390,19,Feel that management trusted the employees to do their work well?,3
+59183,4390,20,Trust management?,3
+59383,4397,8,Feel you were close to panic?,0
+59311,4399,22,Feel work negatively affected your private life?,2
+59321,4400,4,Overall,5
+59321,4400,20,Trust management?,3
+59183,4390,21,Feel conflicts were resolved in a fair way?,3
+59183,4390,22,Feel work negatively affected your private life?,1
+59183,4390,23,Get exposed to undesired sexual attention or violence?,0
+59269,4391,4,Overall,4
+59269,4391,7,Feel scared without any good reason?,0
+59269,4391,12,Get behind in your work?,0
+59269,4391,15,Feel recognized and appreciated at work?,3
+59269,4391,22,Feel work negatively affected your private life?,0
+59226,4394,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59226,4394,12,Get behind in your work?,2
+59383,4397,16,Feel treated fairly at work?,1
+59370,4398,10,Feel intolerant of anything that kept you from what you were doing?,0
+59311,4399,13,Influence decisions concerning your work?,2
+59321,4400,5,Feel you had nothing to look forward to?,0
+59183,4390,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59269,4391,6,Feel that life was meaningless?,0
+59269,4391,21,Feel conflicts were resolved in a fair way?,2
+59226,4394,7,Feel scared without any good reason?,1
+59269,4391,1,Individual,4
+59226,4394,13,Influence decisions concerning your work?,1
+59269,4391,2,Interpersonal,4
+59226,4394,17,Feel there is a good relationship with your colleagues?,3
+59269,4391,3,Social,3
+59269,4391,17,Feel there is a good relationship with your colleagues?,2
+59226,4394,15,Feel recognized and appreciated at work?,2
+59226,4394,21,Feel conflicts were resolved in a fair way?,1
+59177,4395,3,Social,2
+59196,4396,1,Individual,3
+59196,4396,4,Overall,3
+59196,4396,6,Feel that life was meaningless?,0
+59383,4397,9,Found it hard to wind down?,0
+59383,4397,17,Feel there is a good relationship with your colleagues?,2
+59370,4398,17,Feel there is a good relationship with your colleagues?,3
+59311,4399,15,Feel recognized and appreciated at work?,2
+59311,4399,17,Feel there is a good relationship with your colleagues?,2
+59321,4400,1,Individual,5
+59321,4400,8,Feel you were close to panic?,0
+59321,4400,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59321,4400,12,Get behind in your work?,0
+59269,4391,5,Feel you had nothing to look forward to?,0
+59269,4391,19,Feel that management trusted the employees to do their work well?,1
+59196,4396,8,Feel you were close to panic?,1
+59383,4397,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59370,4398,7,Feel scared without any good reason?,0
+59311,4399,8,Feel you were close to panic?,1
+59321,4400,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59427,4402,21,Feel conflicts were resolved in a fair way?,3
+59269,4391,8,Feel you were close to panic?,0
+59269,4391,9,Found it hard to wind down?,0
+59269,4391,16,Feel treated fairly at work?,2
+59269,4391,18,Worry about becoming unemployed or being transferred against your will?,1
+59226,4394,9,Found it hard to wind down?,1
+59226,4394,16,Feel treated fairly at work?,2
+59177,4395,10,Feel intolerant of anything that kept you from what you were doing?,2
+59177,4395,21,Feel conflicts were resolved in a fair way?,2
+59383,4397,1,Individual,5
+59196,4396,5,Feel you had nothing to look forward to?,2
+59383,4397,5,Feel you had nothing to look forward to?,3
+59196,4396,19,Feel that management trusted the employees to do their work well?,3
+59370,4398,15,Feel recognized and appreciated at work?,3
+59311,4399,6,Feel that life was meaningless?,0
+59311,4399,16,Feel treated fairly at work?,2
+59321,4400,7,Feel scared without any good reason?,0
+59321,4400,10,Feel intolerant of anything that kept you from what you were doing?,0
+59269,4391,10,Feel intolerant of anything that kept you from what you were doing?,0
+59269,4391,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59269,4391,13,Influence decisions concerning your work?,2
+59269,4391,14,Find your work meaningful?,2
+59269,4391,23,Get exposed to undesired sexual attention or violence?,0
+59269,4391,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59177,4395,7,Feel scared without any good reason?,0
+59177,4395,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59196,4396,2,Interpersonal,4
+59383,4397,4,Overall,5
+59196,4396,13,Influence decisions concerning your work?,2
+59196,4396,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59370,4398,18,Worry about becoming unemployed or being transferred against your will?,0
+59311,4399,1,Individual,2
+59311,4399,4,Overall,2
+59427,4402,15,Feel recognized and appreciated at work?,1
+59266,4406,14,Find your work meaningful?,2
+59269,4391,20,Trust management?,1
+59226,4394,3,Social,3
+59226,4394,5,Feel you had nothing to look forward to?,0
+59226,4394,18,Worry about becoming unemployed or being transferred against your will?,0
+59226,4394,23,Get exposed to undesired sexual attention or violence?,0
+59383,4397,7,Feel scared without any good reason?,0
+59196,4396,16,Feel treated fairly at work?,1
+59383,4397,21,Feel conflicts were resolved in a fair way?,1
+59370,4398,5,Feel you had nothing to look forward to?,0
+59370,4398,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59311,4399,10,Feel intolerant of anything that kept you from what you were doing?,2
+59321,4400,19,Feel that management trusted the employees to do their work well?,3
+59427,4402,20,Trust management?,2
+59226,4394,4,Overall,4
+59226,4394,20,Trust management?,2
+59177,4395,2,Interpersonal,5
+59383,4397,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59383,4397,13,Influence decisions concerning your work?,2
+59196,4396,20,Trust management?,1
+59370,4398,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59311,4399,12,Get behind in your work?,1
+59321,4400,22,Feel work negatively affected your private life?,0
+59427,4402,3,Social,2
+59266,4406,12,Get behind in your work?,0
+59226,4394,1,Individual,3
+59226,4394,2,Interpersonal,5
+59226,4394,6,Feel that life was meaningless?,0
+59226,4394,8,Feel you were close to panic?,1
+59226,4394,10,Feel intolerant of anything that kept you from what you were doing?,1
+59226,4394,22,Feel work negatively affected your private life?,1
+59177,4395,8,Feel you were close to panic?,0
+59177,4395,9,Found it hard to wind down?,1
+59177,4395,12,Get behind in your work?,0
+59177,4395,17,Feel there is a good relationship with your colleagues?,2
+59177,4395,18,Worry about becoming unemployed or being transferred against your will?,0
+59177,4395,20,Trust management?,2
+59177,4395,22,Feel work negatively affected your private life?,1
+59177,4395,23,Get exposed to undesired sexual attention or violence?,0
+59383,4397,2,Interpersonal,5
+59196,4396,7,Feel scared without any good reason?,1
+59196,4396,10,Feel intolerant of anything that kept you from what you were doing?,1
+59196,4396,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59383,4397,15,Feel recognized and appreciated at work?,1
+59196,4396,17,Feel there is a good relationship with your colleagues?,1
+59383,4397,18,Worry about becoming unemployed or being transferred against your will?,0
+59383,4397,19,Feel that management trusted the employees to do their work well?,1
+59370,4398,3,Social,5
+59370,4398,4,Overall,5
+59370,4398,12,Get behind in your work?,0
+59370,4398,13,Influence decisions concerning your work?,1
+59370,4398,16,Feel treated fairly at work?,3
+59311,4399,2,Interpersonal,4
+59311,4399,7,Feel scared without any good reason?,0
+59311,4399,9,Found it hard to wind down?,2
+59311,4399,14,Find your work meaningful?,2
+59311,4399,19,Feel that management trusted the employees to do their work well?,3
+59321,4400,23,Get exposed to undesired sexual attention or violence?,0
+59266,4406,10,Feel intolerant of anything that kept you from what you were doing?,1
+59475,4412,12,Get behind in your work?,3
+59209,4393,13,Influence decisions concerning your work?,2
+59209,4393,19,Feel that management trusted the employees to do their work well?,2
+59355,4414,7,Feel scared without any good reason?,0
+59355,4414,22,Feel work negatively affected your private life?,0
+59226,4394,14,Find your work meaningful?,1
+59383,4397,3,Social,5
+59196,4396,15,Feel recognized and appreciated at work?,1
+59196,4396,22,Feel work negatively affected your private life?,1
+59311,4399,3,Social,2
+59226,4394,19,Feel that management trusted the employees to do their work well?,2
+59226,4394,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59177,4395,1,Individual,3
+59177,4395,4,Overall,3
+59177,4395,5,Feel you had nothing to look forward to?,1
+59177,4395,6,Feel that life was meaningless?,1
+59177,4395,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59177,4395,19,Feel that management trusted the employees to do their work well?,3
+59383,4397,6,Feel that life was meaningless?,0
+59196,4396,12,Get behind in your work?,3
+59370,4398,9,Found it hard to wind down?,0
+59370,4398,21,Feel conflicts were resolved in a fair way?,3
+59370,4398,22,Feel work negatively affected your private life?,0
+59311,4399,18,Worry about becoming unemployed or being transferred against your will?,0
+59311,4399,21,Feel conflicts were resolved in a fair way?,3
+59321,4400,2,Interpersonal,5
+59321,4400,15,Feel recognized and appreciated at work?,3
+59321,4400,17,Feel there is a good relationship with your colleagues?,3
+59427,4402,8,Feel you were close to panic?,0
+59177,4395,13,Influence decisions concerning your work?,1
+59177,4395,14,Find your work meaningful?,1
+59177,4395,15,Feel recognized and appreciated at work?,2
+59177,4395,16,Feel treated fairly at work?,2
+59196,4396,3,Social,3
+59196,4396,9,Found it hard to wind down?,1
+59383,4397,10,Feel intolerant of anything that kept you from what you were doing?,0
+59383,4397,12,Get behind in your work?,0
+59196,4396,14,Find your work meaningful?,1
+59383,4397,14,Find your work meaningful?,3
+59196,4396,18,Worry about becoming unemployed or being transferred against your will?,0
+59196,4396,21,Feel conflicts were resolved in a fair way?,2
+59383,4397,20,Trust management?,1
+59196,4396,23,Get exposed to undesired sexual attention or violence?,0
+59383,4397,22,Feel work negatively affected your private life?,0
+59383,4397,23,Get exposed to undesired sexual attention or violence?,0
+59370,4398,1,Individual,5
+59370,4398,2,Interpersonal,5
+59370,4398,6,Feel that life was meaningless?,0
+59370,4398,8,Feel you were close to panic?,0
+59370,4398,14,Find your work meaningful?,3
+59370,4398,19,Feel that management trusted the employees to do their work well?,3
+59370,4398,20,Trust management?,3
+59370,4398,23,Get exposed to undesired sexual attention or violence?,0
+59311,4399,5,Feel you had nothing to look forward to?,1
+59311,4399,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59311,4399,20,Trust management?,3
+59311,4399,23,Get exposed to undesired sexual attention or violence?,0
+59311,4399,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59321,4400,3,Social,5
+59321,4400,6,Feel that life was meaningless?,0
+59321,4400,9,Found it hard to wind down?,0
+59321,4400,13,Influence decisions concerning your work?,3
+59321,4400,14,Find your work meaningful?,3
+59321,4400,16,Feel treated fairly at work?,3
+59321,4400,18,Worry about becoming unemployed or being transferred against your will?,0
+59321,4400,21,Feel conflicts were resolved in a fair way?,3
+59427,4402,1,Individual,3
+59427,4402,2,Interpersonal,3
+59427,4402,4,Overall,3
+59427,4402,5,Feel you had nothing to look forward to?,2
+59427,4402,6,Feel that life was meaningless?,1
+59427,4402,7,Feel scared without any good reason?,0
+59427,4402,9,Found it hard to wind down?,1
+59427,4402,10,Feel intolerant of anything that kept you from what you were doing?,1
+59427,4402,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59427,4402,12,Get behind in your work?,1
+59427,4402,13,Influence decisions concerning your work?,1
+59427,4402,14,Find your work meaningful?,2
+59427,4402,16,Feel treated fairly at work?,2
+59427,4402,17,Feel there is a good relationship with your colleagues?,2
+59427,4402,18,Worry about becoming unemployed or being transferred against your will?,0
+59427,4402,19,Feel that management trusted the employees to do their work well?,2
+59427,4402,22,Feel work negatively affected your private life?,1
+59427,4402,23,Get exposed to undesired sexual attention or violence?,0
+59427,4402,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59475,4412,2,Interpersonal,3
+59209,4393,5,Feel you had nothing to look forward to?,0
+59266,4406,3,Social,3
+59462,4416,4,Overall,3
+59462,4416,21,Feel conflicts were resolved in a fair way?,2
+59266,4406,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59266,4406,13,Influence decisions concerning your work?,2
+59266,4406,23,Get exposed to undesired sexual attention or violence?,0
+59266,4406,7,Feel scared without any good reason?,1
+59266,4406,8,Feel you were close to panic?,0
+59266,4406,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59209,4393,8,Feel you were close to panic?,1
+59266,4406,15,Feel recognized and appreciated at work?,2
+59266,4406,1,Individual,5
+59266,4406,2,Interpersonal,5
+59266,4406,19,Feel that management trusted the employees to do their work well?,2
+59475,4412,15,Feel recognized and appreciated at work?,1
+59475,4412,17,Feel there is a good relationship with your colleagues?,1
+59209,4393,3,Social,4
+59209,4393,9,Found it hard to wind down?,0
+59209,4393,18,Worry about becoming unemployed or being transferred against your will?,0
+59266,4406,4,Overall,4
+59266,4406,5,Feel you had nothing to look forward to?,0
+59266,4406,6,Feel that life was meaningless?,0
+59266,4406,9,Found it hard to wind down?,0
+59266,4406,16,Feel treated fairly at work?,2
+59266,4406,17,Feel there is a good relationship with your colleagues?,3
+59266,4406,18,Worry about becoming unemployed or being transferred against your will?,3
+59266,4406,20,Trust management?,1
+59475,4412,23,Get exposed to undesired sexual attention or violence?,0
+59209,4393,17,Feel there is a good relationship with your colleagues?,3
+59462,4416,14,Find your work meaningful?,2
+59266,4406,21,Feel conflicts were resolved in a fair way?,3
+59266,4406,22,Feel work negatively affected your private life?,0
+59209,4393,1,Individual,4
+59209,4393,7,Feel scared without any good reason?,0
+59475,4412,1,Individual,2
+59475,4412,3,Social,2
+59475,4412,4,Overall,2
+59475,4412,5,Feel you had nothing to look forward to?,2
+59475,4412,6,Feel that life was meaningless?,1
+59475,4412,7,Feel scared without any good reason?,2
+59475,4412,8,Feel you were close to panic?,1
+59475,4412,9,Found it hard to wind down?,1
+59475,4412,10,Feel intolerant of anything that kept you from what you were doing?,2
+59475,4412,11,"Feel guilty about substance use (alcohol, drugs, etc)?",2
+59475,4412,13,Influence decisions concerning your work?,1
+59475,4412,14,Find your work meaningful?,0
+59475,4412,16,Feel treated fairly at work?,2
+59475,4412,18,Worry about becoming unemployed or being transferred against your will?,0
+59475,4412,19,Feel that management trusted the employees to do their work well?,2
+59475,4412,20,Trust management?,1
+59475,4412,21,Feel conflicts were resolved in a fair way?,2
+59475,4412,22,Feel work negatively affected your private life?,2
+59475,4412,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59209,4393,2,Interpersonal,3
+59209,4393,4,Overall,4
+59209,4393,6,Feel that life was meaningless?,0
+59209,4393,10,Feel intolerant of anything that kept you from what you were doing?,1
+59209,4393,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59209,4393,12,Get behind in your work?,1
+59209,4393,14,Find your work meaningful?,1
+59209,4393,15,Feel recognized and appreciated at work?,2
+59209,4393,16,Feel treated fairly at work?,3
+59209,4393,20,Trust management?,3
+59209,4393,21,Feel conflicts were resolved in a fair way?,2
+59209,4393,22,Feel work negatively affected your private life?,1
+59209,4393,23,Get exposed to undesired sexual attention or violence?,0
+59209,4393,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59355,4414,1,Individual,5
+59355,4414,2,Interpersonal,4
+59355,4414,3,Social,4
+59355,4414,4,Overall,5
+59355,4414,5,Feel you had nothing to look forward to?,1
+59355,4414,6,Feel that life was meaningless?,0
+59355,4414,8,Feel you were close to panic?,0
+59355,4414,9,Found it hard to wind down?,2
+59355,4414,10,Feel intolerant of anything that kept you from what you were doing?,1
+59355,4414,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59355,4414,12,Get behind in your work?,0
+59355,4414,13,Influence decisions concerning your work?,0
+59355,4414,14,Find your work meaningful?,3
+59355,4414,15,Feel recognized and appreciated at work?,3
+59355,4414,16,Feel treated fairly at work?,3
+59355,4414,17,Feel there is a good relationship with your colleagues?,3
+59355,4414,18,Worry about becoming unemployed or being transferred against your will?,1
+59355,4414,19,Feel that management trusted the employees to do their work well?,3
+59355,4414,20,Trust management?,3
+59355,4414,21,Feel conflicts were resolved in a fair way?,3
+59355,4414,23,Get exposed to undesired sexual attention or violence?,0
+59355,4414,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59462,4416,6,Feel that life was meaningless?,0
+59462,4416,7,Feel scared without any good reason?,0
+59462,4416,13,Influence decisions concerning your work?,0
+59462,4416,2,Interpersonal,4
+59462,4416,3,Social,2
+59462,4416,16,Feel treated fairly at work?,2
+59462,4416,22,Feel work negatively affected your private life?,0
+59462,4416,9,Found it hard to wind down?,2
+59462,4416,17,Feel there is a good relationship with your colleagues?,2
+59462,4416,1,Individual,3
+59462,4416,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59462,4416,20,Trust management?,2
+59462,4416,10,Feel intolerant of anything that kept you from what you were doing?,1
+59462,4416,5,Feel you had nothing to look forward to?,2
+59462,4416,8,Feel you were close to panic?,1
+59462,4416,12,Get behind in your work?,0
+59462,4416,23,Get exposed to undesired sexual attention or violence?,0
+59462,4416,15,Feel recognized and appreciated at work?,2
+59462,4416,18,Worry about becoming unemployed or being transferred against your will?,0
+59462,4416,19,Feel that management trusted the employees to do their work well?,2
+59462,4416,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59518,4422,1,Individual,3
+59518,4422,2,Interpersonal,2
+59518,4422,3,Social,4
+59518,4422,4,Overall,4
+59518,4422,17,Feel there is a good relationship with your colleagues?,3
+59507,4424,10,Feel intolerant of anything that kept you from what you were doing?,1
+59507,4424,16,Feel treated fairly at work?,3
+59507,4424,19,Feel that management trusted the employees to do their work well?,3
+59507,4424,8,Feel you were close to panic?,1
+59518,4422,8,Feel you were close to panic?,1
+59518,4422,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59518,4422,22,Feel work negatively affected your private life?,1
+59518,4422,5,Feel you had nothing to look forward to?,1
+59507,4424,12,Get behind in your work?,0
+59507,4424,13,Influence decisions concerning your work?,2
+59507,4424,23,Get exposed to undesired sexual attention or violence?,0
+59518,4422,20,Trust management?,3
+59507,4424,5,Feel you had nothing to look forward to?,0
+59518,4422,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59518,4422,6,Feel that life was meaningless?,1
+59507,4424,3,Social,3
+59507,4424,21,Feel conflicts were resolved in a fair way?,3
+59518,4422,7,Feel scared without any good reason?,0
+59518,4422,13,Influence decisions concerning your work?,1
+59507,4424,6,Feel that life was meaningless?,0
+59507,4424,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59507,4424,15,Feel recognized and appreciated at work?,3
+59518,4422,12,Get behind in your work?,1
+59518,4422,18,Worry about becoming unemployed or being transferred against your will?,0
+59507,4424,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59518,4422,9,Found it hard to wind down?,0
+59507,4424,7,Feel scared without any good reason?,0
+59518,4422,10,Feel intolerant of anything that kept you from what you were doing?,2
+59507,4424,17,Feel there is a good relationship with your colleagues?,2
+59518,4422,14,Find your work meaningful?,3
+59518,4422,21,Feel conflicts were resolved in a fair way?,3
+59518,4422,15,Feel recognized and appreciated at work?,3
+59507,4424,1,Individual,3
+59518,4422,16,Feel treated fairly at work?,3
+59518,4422,19,Feel that management trusted the employees to do their work well?,3
+59507,4424,2,Interpersonal,5
+59518,4422,23,Get exposed to undesired sexual attention or violence?,0
+59507,4424,9,Found it hard to wind down?,1
+59507,4424,4,Overall,3
+59507,4424,14,Find your work meaningful?,1
+59519,4437,19,Feel that management trusted the employees to do their work well?,3
+59496,4438,14,Find your work meaningful?,2
+59507,4424,18,Worry about becoming unemployed or being transferred against your will?,0
+59507,4424,20,Trust management?,3
+59507,4424,22,Feel work negatively affected your private life?,1
+59519,4437,3,Social,1
+59497,4448,19,Feel that management trusted the employees to do their work well?,2
+59519,4437,16,Feel treated fairly at work?,3
+59519,4437,15,Feel recognized and appreciated at work?,2
+59496,4438,17,Feel there is a good relationship with your colleagues?,3
+59439,4444,15,Feel recognized and appreciated at work?,1
+59439,4444,21,Feel conflicts were resolved in a fair way?,2
+59496,4438,15,Feel recognized and appreciated at work?,3
+59496,4438,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59439,4444,22,Feel work negatively affected your private life?,1
+59439,4444,1,Individual,5
+59439,4444,9,Found it hard to wind down?,2
+59439,4444,18,Worry about becoming unemployed or being transferred against your will?,2
+59497,4448,17,Feel there is a good relationship with your colleagues?,2
+59519,4437,14,Find your work meaningful?,2
+59439,4444,5,Feel you had nothing to look forward to?,0
+59497,4448,2,Interpersonal,5
+59497,4448,15,Feel recognized and appreciated at work?,2
+59496,4438,5,Feel you had nothing to look forward to?,0
+59519,4437,5,Feel you had nothing to look forward to?,1
+59519,4437,6,Feel that life was meaningless?,0
+59519,4437,17,Feel there is a good relationship with your colleagues?,1
+59519,4437,21,Feel conflicts were resolved in a fair way?,3
+59519,4437,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59496,4438,3,Social,4
+59496,4438,7,Feel scared without any good reason?,0
+59496,4438,8,Feel you were close to panic?,1
+59496,4438,13,Influence decisions concerning your work?,2
+59496,4438,18,Worry about becoming unemployed or being transferred against your will?,0
+59496,4438,21,Feel conflicts were resolved in a fair way?,2
+59439,4444,13,Influence decisions concerning your work?,1
+59497,4448,10,Feel intolerant of anything that kept you from what you were doing?,1
+59497,4448,16,Feel treated fairly at work?,2
+59519,4437,20,Trust management?,2
+59496,4438,1,Individual,3
+59496,4438,23,Get exposed to undesired sexual attention or violence?,0
+59439,4444,16,Feel treated fairly at work?,1
+59519,4437,18,Worry about becoming unemployed or being transferred against your will?,1
+59519,4437,22,Feel work negatively affected your private life?,1
+59519,4437,1,Individual,3
+59519,4437,2,Interpersonal,3
+59519,4437,4,Overall,4
+59519,4437,7,Feel scared without any good reason?,0
+59519,4437,8,Feel you were close to panic?,0
+59519,4437,9,Found it hard to wind down?,3
+59519,4437,10,Feel intolerant of anything that kept you from what you were doing?,1
+59519,4437,11,"Feel guilty about substance use (alcohol, drugs, etc)?",2
+59519,4437,12,Get behind in your work?,1
+59519,4437,13,Influence decisions concerning your work?,1
+59519,4437,23,Get exposed to undesired sexual attention or violence?,0
+59496,4438,2,Interpersonal,4
+59496,4438,4,Overall,3
+59496,4438,6,Feel that life was meaningless?,0
+59496,4438,9,Found it hard to wind down?,1
+59496,4438,10,Feel intolerant of anything that kept you from what you were doing?,1
+59496,4438,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59496,4438,12,Get behind in your work?,0
+59496,4438,16,Feel treated fairly at work?,3
+59496,4438,19,Feel that management trusted the employees to do their work well?,3
+59496,4438,20,Trust management?,3
+59496,4438,22,Feel work negatively affected your private life?,1
+59439,4444,2,Interpersonal,4
+59439,4444,3,Social,3
+59439,4444,4,Overall,4
+59439,4444,6,Feel that life was meaningless?,0
+59439,4444,7,Feel scared without any good reason?,1
+59439,4444,8,Feel you were close to panic?,1
+59439,4444,10,Feel intolerant of anything that kept you from what you were doing?,1
+59439,4444,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59439,4444,12,Get behind in your work?,0
+59439,4444,14,Find your work meaningful?,2
+59439,4444,17,Feel there is a good relationship with your colleagues?,2
+59439,4444,19,Feel that management trusted the employees to do their work well?,3
+59439,4444,20,Trust management?,2
+59439,4444,23,Get exposed to undesired sexual attention or violence?,0
+59439,4444,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59497,4448,1,Individual,4
+59497,4448,18,Worry about becoming unemployed or being transferred against your will?,0
+59497,4448,21,Feel conflicts were resolved in a fair way?,3
+59497,4448,9,Found it hard to wind down?,2
+59497,4448,3,Social,4
+59497,4448,8,Feel you were close to panic?,1
+59497,4448,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59497,4448,4,Overall,4
+59497,4448,5,Feel you had nothing to look forward to?,1
+59497,4448,6,Feel that life was meaningless?,0
+59497,4448,7,Feel scared without any good reason?,0
+59497,4448,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59497,4448,12,Get behind in your work?,1
+59497,4448,13,Influence decisions concerning your work?,0
+59497,4448,14,Find your work meaningful?,1
+59497,4448,20,Trust management?,2
+59497,4448,22,Feel work negatively affected your private life?,1
+59497,4448,23,Get exposed to undesired sexual attention or violence?,0
+59155,4450,1,Individual,2
+59155,4450,2,Interpersonal,3
+59155,4450,3,Social,4
+59155,4450,4,Overall,3
+59155,4450,5,Feel you had nothing to look forward to?,2
+59155,4450,6,Feel that life was meaningless?,1
+59155,4450,7,Feel scared without any good reason?,2
+59155,4450,8,Feel you were close to panic?,0
+59155,4450,9,Found it hard to wind down?,0
+59155,4450,10,Feel intolerant of anything that kept you from what you were doing?,1
+59155,4450,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59155,4450,12,Get behind in your work?,0
+59155,4450,13,Influence decisions concerning your work?,0
+59155,4450,14,Find your work meaningful?,1
+59155,4450,15,Feel recognized and appreciated at work?,1
+59155,4450,16,Feel treated fairly at work?,2
+59155,4450,17,Feel there is a good relationship with your colleagues?,2
+59155,4450,18,Worry about becoming unemployed or being transferred against your will?,3
+59155,4450,19,Feel that management trusted the employees to do their work well?,3
+59155,4450,20,Trust management?,2
+59155,4450,21,Feel conflicts were resolved in a fair way?,2
+59155,4450,22,Feel work negatively affected your private life?,0
+59155,4450,23,Get exposed to undesired sexual attention or violence?,0
+59155,4450,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59482,4453,1,Individual,4
+59482,4453,2,Interpersonal,3
+59482,4453,3,Social,5
+59482,4453,4,Overall,3
+59482,4453,5,Feel you had nothing to look forward to?,0
+59482,4453,6,Feel that life was meaningless?,0
+59482,4453,10,Feel intolerant of anything that kept you from what you were doing?,1
+59482,4453,14,Find your work meaningful?,1
+59482,4453,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59482,4453,7,Feel scared without any good reason?,0
+59482,4453,8,Feel you were close to panic?,0
+59482,4453,9,Found it hard to wind down?,0
+59482,4453,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59482,4453,12,Get behind in your work?,0
+59482,4453,13,Influence decisions concerning your work?,2
+59482,4453,15,Feel recognized and appreciated at work?,1
+59482,4453,16,Feel treated fairly at work?,3
+59482,4453,17,Feel there is a good relationship with your colleagues?,2
+59482,4453,18,Worry about becoming unemployed or being transferred against your will?,1
+59482,4453,23,Get exposed to undesired sexual attention or violence?,0
+59482,4453,19,Feel that management trusted the employees to do their work well?,2
+59482,4453,20,Trust management?,1
+59482,4453,21,Feel conflicts were resolved in a fair way?,1
+59482,4453,22,Feel work negatively affected your private life?,0
+59200,4455,1,Individual,5
+59200,4455,2,Interpersonal,5
+59200,4455,3,Social,5
+59200,4455,4,Overall,5
+59200,4455,5,Feel you had nothing to look forward to?,0
+59200,4455,6,Feel that life was meaningless?,0
+59200,4455,7,Feel scared without any good reason?,0
+59200,4455,8,Feel you were close to panic?,0
+59200,4455,9,Found it hard to wind down?,1
+59200,4455,10,Feel intolerant of anything that kept you from what you were doing?,1
+59200,4455,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59200,4455,12,Get behind in your work?,3
+59200,4455,13,Influence decisions concerning your work?,2
+59200,4455,14,Find your work meaningful?,2
+59200,4455,15,Feel recognized and appreciated at work?,1
+59200,4455,16,Feel treated fairly at work?,1
+59200,4455,17,Feel there is a good relationship with your colleagues?,2
+59200,4455,18,Worry about becoming unemployed or being transferred against your will?,1
+59200,4455,19,Feel that management trusted the employees to do their work well?,2
+59200,4455,20,Trust management?,2
+59200,4455,21,Feel conflicts were resolved in a fair way?,1
+59200,4455,22,Feel work negatively affected your private life?,1
+59200,4455,23,Get exposed to undesired sexual attention or violence?,0
+59200,4455,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59346,4468,1,Individual,3
+59346,4468,2,Interpersonal,3
+59346,4468,3,Social,3
+59346,4468,4,Overall,3
+59346,4468,5,Feel you had nothing to look forward to?,0
+59346,4468,6,Feel that life was meaningless?,0
+59346,4468,7,Feel scared without any good reason?,0
+59346,4468,8,Feel you were close to panic?,1
+59346,4468,9,Found it hard to wind down?,2
+59346,4468,10,Feel intolerant of anything that kept you from what you were doing?,1
+59346,4468,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59346,4468,12,Get behind in your work?,1
+59346,4468,13,Influence decisions concerning your work?,1
+59346,4468,14,Find your work meaningful?,2
+59346,4468,15,Feel recognized and appreciated at work?,1
+59346,4468,16,Feel treated fairly at work?,2
+59346,4468,17,Feel there is a good relationship with your colleagues?,3
+59346,4468,18,Worry about becoming unemployed or being transferred against your will?,0
+59346,4468,19,Feel that management trusted the employees to do their work well?,3
+59346,4468,20,Trust management?,2
+59346,4468,21,Feel conflicts were resolved in a fair way?,2
+59346,4468,22,Feel work negatively affected your private life?,1
+59346,4468,23,Get exposed to undesired sexual attention or violence?,0
+59346,4468,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59292,4517,6,Feel that life was meaningless?,3
+59292,4517,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59292,4517,7,Feel scared without any good reason?,0
+59292,4517,3,Social,4
+59292,4517,10,Feel intolerant of anything that kept you from what you were doing?,1
+59292,4517,18,Worry about becoming unemployed or being transferred against your will?,0
+59292,4517,2,Interpersonal,5
+59292,4517,12,Get behind in your work?,2
+59292,4517,22,Feel work negatively affected your private life?,0
+59292,4517,17,Feel there is a good relationship with your colleagues?,1
+59292,4517,1,Individual,3
+59292,4517,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59292,4517,15,Feel recognized and appreciated at work?,0
+59292,4517,20,Trust management?,2
+59292,4517,4,Overall,3
+59292,4517,13,Influence decisions concerning your work?,1
+59292,4517,21,Feel conflicts were resolved in a fair way?,2
+59292,4517,23,Get exposed to undesired sexual attention or violence?,0
+59292,4517,5,Feel you had nothing to look forward to?,3
+59292,4517,8,Feel you were close to panic?,0
+59292,4517,9,Found it hard to wind down?,0
+59292,4517,16,Feel treated fairly at work?,2
+59292,4517,19,Feel that management trusted the employees to do their work well?,1
+59292,4517,14,Find your work meaningful?,0
+59336,4520,1,Individual,3
+59336,4520,2,Interpersonal,2
+59336,4520,3,Social,2
+59336,4520,4,Overall,3
+59336,4520,5,Feel you had nothing to look forward to?,1
+59336,4520,6,Feel that life was meaningless?,0
+59336,4520,7,Feel scared without any good reason?,0
+59336,4520,8,Feel you were close to panic?,0
+59336,4520,9,Found it hard to wind down?,1
+59336,4520,10,Feel intolerant of anything that kept you from what you were doing?,0
+59336,4520,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59336,4520,12,Get behind in your work?,3
+59336,4520,13,Influence decisions concerning your work?,2
+59336,4520,14,Find your work meaningful?,1
+59336,4520,15,Feel recognized and appreciated at work?,2
+59336,4520,16,Feel treated fairly at work?,2
+59336,4520,17,Feel there is a good relationship with your colleagues?,2
+59336,4520,18,Worry about becoming unemployed or being transferred against your will?,0
+59336,4520,19,Feel that management trusted the employees to do their work well?,2
+59336,4520,20,Trust management?,1
+59336,4520,21,Feel conflicts were resolved in a fair way?,1
+59336,4520,22,Feel work negatively affected your private life?,1
+59336,4520,23,Get exposed to undesired sexual attention or violence?,0
+59336,4520,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59337,4523,19,Feel that management trusted the employees to do their work well?,3
+59418,4525,2,Interpersonal,4
+59418,4525,7,Feel scared without any good reason?,0
+59337,4523,12,Get behind in your work?,0
+59337,4523,8,Feel you were close to panic?,0
+59337,4523,17,Feel there is a good relationship with your colleagues?,3
+59418,4525,21,Feel conflicts were resolved in a fair way?,0
+59283,4526,17,Feel there is a good relationship with your colleagues?,1
+59337,4523,2,Interpersonal,4
+59337,4523,22,Feel work negatively affected your private life?,0
+59418,4525,18,Worry about becoming unemployed or being transferred against your will?,0
+59337,4523,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59337,4523,18,Worry about becoming unemployed or being transferred against your will?,1
+59418,4525,12,Get behind in your work?,0
+59418,4525,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59283,4526,19,Feel that management trusted the employees to do their work well?,2
+59337,4523,1,Individual,5
+59337,4523,3,Social,5
+59337,4523,15,Feel recognized and appreciated at work?,2
+59337,4523,23,Get exposed to undesired sexual attention or violence?,0
+59418,4525,3,Social,4
+59337,4523,4,Overall,5
+59418,4525,13,Influence decisions concerning your work?,1
+59283,4526,12,Get behind in your work?,0
+59283,4526,22,Feel work negatively affected your private life?,0
+59337,4523,5,Feel you had nothing to look forward to?,0
+59337,4523,20,Trust management?,3
+59337,4523,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59418,4525,5,Feel you had nothing to look forward to?,1
+59418,4525,15,Feel recognized and appreciated at work?,0
+59337,4523,6,Feel that life was meaningless?,0
+59337,4523,10,Feel intolerant of anything that kept you from what you were doing?,1
+59337,4523,7,Feel scared without any good reason?,0
+59337,4523,9,Found it hard to wind down?,0
+59337,4523,13,Influence decisions concerning your work?,1
+59337,4523,14,Find your work meaningful?,2
+59337,4523,16,Feel treated fairly at work?,3
+59337,4523,21,Feel conflicts were resolved in a fair way?,3
+59283,4526,3,Social,4
+59418,4525,19,Feel that management trusted the employees to do their work well?,2
+59418,4525,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59283,4526,4,Overall,4
+59283,4526,6,Feel that life was meaningless?,0
+59283,4526,10,Feel intolerant of anything that kept you from what you were doing?,1
+59283,4526,13,Influence decisions concerning your work?,2
+59283,4526,14,Find your work meaningful?,2
+59418,4525,1,Individual,4
+59418,4525,4,Overall,4
+59418,4525,6,Feel that life was meaningless?,0
+59418,4525,8,Feel you were close to panic?,0
+59418,4525,9,Found it hard to wind down?,2
+59418,4525,10,Feel intolerant of anything that kept you from what you were doing?,1
+59418,4525,14,Find your work meaningful?,1
+59418,4525,16,Feel treated fairly at work?,1
+59418,4525,17,Feel there is a good relationship with your colleagues?,2
+59418,4525,20,Trust management?,1
+59418,4525,22,Feel work negatively affected your private life?,0
+59418,4525,23,Get exposed to undesired sexual attention or violence?,0
+59283,4526,1,Individual,4
+59283,4526,2,Interpersonal,4
+59283,4526,5,Feel you had nothing to look forward to?,0
+59283,4526,7,Feel scared without any good reason?,0
+59283,4526,8,Feel you were close to panic?,1
+59283,4526,9,Found it hard to wind down?,2
+59283,4526,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59283,4526,15,Feel recognized and appreciated at work?,1
+59283,4526,16,Feel treated fairly at work?,1
+59283,4526,18,Worry about becoming unemployed or being transferred against your will?,0
+59283,4526,20,Trust management?,2
+59283,4526,21,Feel conflicts were resolved in a fair way?,2
+59283,4526,23,Get exposed to undesired sexual attention or violence?,0
+59283,4526,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59300,4529,1,Individual,3
+59300,4529,2,Interpersonal,4
+59300,4529,3,Social,2
+59300,4529,4,Overall,3
+59300,4529,5,Feel you had nothing to look forward to?,1
+59300,4529,6,Feel that life was meaningless?,3
+59300,4529,7,Feel scared without any good reason?,0
+59300,4529,8,Feel you were close to panic?,1
+59300,4529,9,Found it hard to wind down?,1
+59300,4529,10,Feel intolerant of anything that kept you from what you were doing?,3
+59300,4529,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59300,4529,12,Get behind in your work?,0
+59300,4529,13,Influence decisions concerning your work?,1
+59300,4529,14,Find your work meaningful?,1
+59300,4529,15,Feel recognized and appreciated at work?,2
+59300,4529,16,Feel treated fairly at work?,2
+59300,4529,17,Feel there is a good relationship with your colleagues?,1
+59300,4529,18,Worry about becoming unemployed or being transferred against your will?,2
+59300,4529,19,Feel that management trusted the employees to do their work well?,3
+59300,4529,20,Trust management?,2
+59300,4529,21,Feel conflicts were resolved in a fair way?,0
+59300,4529,22,Feel work negatively affected your private life?,2
+59300,4529,23,Get exposed to undesired sexual attention or violence?,0
+59300,4529,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59386,4532,9,Found it hard to wind down?,1
+59386,4532,4,Overall,4
+59386,4532,1,Individual,3
+59386,4532,8,Feel you were close to panic?,1
+59386,4532,10,Feel intolerant of anything that kept you from what you were doing?,1
+59386,4532,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59386,4532,12,Get behind in your work?,1
+59386,4532,17,Feel there is a good relationship with your colleagues?,1
+59386,4532,18,Worry about becoming unemployed or being transferred against your will?,2
+59386,4532,22,Feel work negatively affected your private life?,1
+59471,4534,6,Feel that life was meaningless?,1
+59386,4532,2,Interpersonal,4
+59386,4532,14,Find your work meaningful?,1
+59386,4532,3,Social,3
+59386,4532,5,Feel you had nothing to look forward to?,1
+59386,4532,15,Feel recognized and appreciated at work?,1
+59386,4532,6,Feel that life was meaningless?,0
+59386,4532,7,Feel scared without any good reason?,1
+59386,4532,13,Influence decisions concerning your work?,1
+59386,4532,19,Feel that management trusted the employees to do their work well?,1
+59471,4534,1,Individual,2
+59172,4312,15,Feel recognized and appreciated at work?,3
+59386,4532,16,Feel treated fairly at work?,1
+59386,4532,20,Trust management?,1
+59386,4532,21,Feel conflicts were resolved in a fair way?,1
+59386,4532,23,Get exposed to undesired sexual attention or violence?,0
+59386,4532,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59471,4534,4,Overall,3
+59471,4534,8,Feel you were close to panic?,0
+59471,4534,10,Feel intolerant of anything that kept you from what you were doing?,0
+59471,4534,14,Find your work meaningful?,1
+59172,4312,6,Feel that life was meaningless?,1
+59172,4312,21,Feel conflicts were resolved in a fair way?,3
+59471,4534,2,Interpersonal,3
+59471,4534,3,Social,2
+59471,4534,5,Feel you had nothing to look forward to?,0
+59471,4534,7,Feel scared without any good reason?,0
+59471,4534,9,Found it hard to wind down?,0
+59471,4534,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59471,4534,12,Get behind in your work?,1
+59471,4534,13,Influence decisions concerning your work?,1
+59471,4534,15,Feel recognized and appreciated at work?,1
+59471,4534,16,Feel treated fairly at work?,2
+59471,4534,17,Feel there is a good relationship with your colleagues?,2
+59471,4534,18,Worry about becoming unemployed or being transferred against your will?,0
+59471,4534,19,Feel that management trusted the employees to do their work well?,3
+59471,4534,20,Trust management?,2
+59471,4534,21,Feel conflicts were resolved in a fair way?,2
+59471,4534,22,Feel work negatively affected your private life?,0
+59471,4534,23,Get exposed to undesired sexual attention or violence?,0
+59471,4534,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59172,4312,1,Individual,3
+59172,4312,2,Interpersonal,4
+59172,4312,3,Social,3
+59172,4312,4,Overall,4
+59172,4312,5,Feel you had nothing to look forward to?,1
+59172,4312,7,Feel scared without any good reason?,1
+59172,4312,8,Feel you were close to panic?,0
+59172,4312,9,Found it hard to wind down?,0
+59172,4312,10,Feel intolerant of anything that kept you from what you were doing?,0
+59172,4312,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59172,4312,12,Get behind in your work?,0
+59172,4312,13,Influence decisions concerning your work?,0
+59172,4312,14,Find your work meaningful?,2
+59172,4312,16,Feel treated fairly at work?,3
+59172,4312,17,Feel there is a good relationship with your colleagues?,2
+59172,4312,18,Worry about becoming unemployed or being transferred against your will?,0
+59172,4312,19,Feel that management trusted the employees to do their work well?,3
+59172,4312,20,Trust management?,3
+59172,4312,22,Feel work negatively affected your private life?,0
+59172,4312,23,Get exposed to undesired sexual attention or violence?,0
+59172,4312,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59426,4548,1,Individual,3
+59426,4548,2,Interpersonal,1
+59426,4548,3,Social,2
+59426,4548,4,Overall,2
+59426,4548,5,Feel you had nothing to look forward to?,1
+59426,4548,6,Feel that life was meaningless?,1
+59426,4548,7,Feel scared without any good reason?,1
+59426,4548,8,Feel you were close to panic?,1
+59426,4548,9,Found it hard to wind down?,2
+59426,4548,10,Feel intolerant of anything that kept you from what you were doing?,2
+59426,4548,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59426,4548,12,Get behind in your work?,1
+59426,4548,13,Influence decisions concerning your work?,1
+59426,4548,14,Find your work meaningful?,1
+59426,4548,15,Feel recognized and appreciated at work?,2
+59426,4548,16,Feel treated fairly at work?,3
+59426,4548,17,Feel there is a good relationship with your colleagues?,2
+59426,4548,18,Worry about becoming unemployed or being transferred against your will?,1
+59426,4548,19,Feel that management trusted the employees to do their work well?,2
+59426,4548,20,Trust management?,2
+59426,4548,21,Feel conflicts were resolved in a fair way?,3
+59426,4548,22,Feel work negatively affected your private life?,1
+59426,4548,23,Get exposed to undesired sexual attention or violence?,0
+59426,4548,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59236,4551,1,Individual,4
+59236,4551,2,Interpersonal,4
+59236,4551,3,Social,4
+59236,4551,4,Overall,3
+59236,4551,5,Feel you had nothing to look forward to?,0
+59236,4551,6,Feel that life was meaningless?,0
+59236,4551,15,Feel recognized and appreciated at work?,2
+59236,4551,7,Feel scared without any good reason?,0
+59236,4551,8,Feel you were close to panic?,0
+59236,4551,9,Found it hard to wind down?,0
+59236,4551,12,Get behind in your work?,0
+59236,4551,16,Feel treated fairly at work?,3
+59236,4551,10,Feel intolerant of anything that kept you from what you were doing?,1
+59236,4551,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59236,4551,13,Influence decisions concerning your work?,0
+59236,4551,20,Trust management?,3
+59236,4551,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59236,4551,14,Find your work meaningful?,3
+59236,4551,21,Feel conflicts were resolved in a fair way?,3
+59236,4551,17,Feel there is a good relationship with your colleagues?,3
+59236,4551,18,Worry about becoming unemployed or being transferred against your will?,1
+59236,4551,22,Feel work negatively affected your private life?,0
+59236,4551,19,Feel that management trusted the employees to do their work well?,3
+59236,4551,23,Get exposed to undesired sexual attention or violence?,0
+59297,4558,9,Found it hard to wind down?,1
+59297,4558,1,Individual,5
+59297,4558,5,Feel you had nothing to look forward to?,0
+59297,4558,6,Feel that life was meaningless?,0
+59297,4558,10,Feel intolerant of anything that kept you from what you were doing?,1
+59297,4558,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59297,4558,12,Get behind in your work?,0
+59297,4558,15,Feel recognized and appreciated at work?,1
+59297,4558,17,Feel there is a good relationship with your colleagues?,1
+59297,4558,2,Interpersonal,5
+59297,4558,3,Social,5
+59297,4558,4,Overall,5
+59297,4558,7,Feel scared without any good reason?,1
+59297,4558,8,Feel you were close to panic?,0
+59297,4558,13,Influence decisions concerning your work?,1
+59297,4558,14,Find your work meaningful?,2
+59297,4558,16,Feel treated fairly at work?,1
+59297,4558,18,Worry about becoming unemployed or being transferred against your will?,1
+59297,4558,19,Feel that management trusted the employees to do their work well?,1
+59297,4558,20,Trust management?,1
+59297,4558,21,Feel conflicts were resolved in a fair way?,1
+59297,4558,22,Feel work negatively affected your private life?,1
+59297,4558,23,Get exposed to undesired sexual attention or violence?,0
+59297,4558,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59422,4561,1,Individual,4
+59422,4561,2,Interpersonal,4
+59422,4561,3,Social,4
+59422,4561,4,Overall,4
+59422,4561,5,Feel you had nothing to look forward to?,0
+59422,4561,6,Feel that life was meaningless?,0
+59422,4561,7,Feel scared without any good reason?,0
+59422,4561,8,Feel you were close to panic?,0
+59422,4561,9,Found it hard to wind down?,1
+59422,4561,10,Feel intolerant of anything that kept you from what you were doing?,0
+59422,4561,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59422,4561,12,Get behind in your work?,0
+59422,4561,13,Influence decisions concerning your work?,1
+59422,4561,14,Find your work meaningful?,3
+59422,4561,15,Feel recognized and appreciated at work?,3
+59422,4561,16,Feel treated fairly at work?,1
+59422,4561,17,Feel there is a good relationship with your colleagues?,3
+59422,4561,18,Worry about becoming unemployed or being transferred against your will?,0
+59422,4561,19,Feel that management trusted the employees to do their work well?,3
+59422,4561,20,Trust management?,3
+59422,4561,21,Feel conflicts were resolved in a fair way?,3
+59422,4561,22,Feel work negatively affected your private life?,0
+59422,4561,23,Get exposed to undesired sexual attention or violence?,0
+59422,4561,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59488,4562,1,Individual,1
+59488,4562,2,Interpersonal,3
+59488,4562,3,Social,1
+59488,4562,4,Overall,2
+59488,4562,5,Feel you had nothing to look forward to?,3
+59488,4562,6,Feel that life was meaningless?,2
+59488,4562,7,Feel scared without any good reason?,2
+59488,4562,8,Feel you were close to panic?,2
+59488,4562,9,Found it hard to wind down?,2
+59488,4562,10,Feel intolerant of anything that kept you from what you were doing?,2
+59488,4562,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59488,4562,12,Get behind in your work?,1
+59488,4562,13,Influence decisions concerning your work?,1
+59488,4562,14,Find your work meaningful?,0
+59488,4562,15,Feel recognized and appreciated at work?,0
+59488,4562,16,Feel treated fairly at work?,1
+59488,4562,17,Feel there is a good relationship with your colleagues?,1
+59488,4562,18,Worry about becoming unemployed or being transferred against your will?,3
+59488,4562,19,Feel that management trusted the employees to do their work well?,1
+59488,4562,20,Trust management?,0
+59488,4562,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59488,4562,21,Feel conflicts were resolved in a fair way?,0
+59259,4566,14,Find your work meaningful?,3
+59488,4562,22,Feel work negatively affected your private life?,2
+59488,4562,23,Get exposed to undesired sexual attention or violence?,0
+59259,4566,13,Influence decisions concerning your work?,0
+59259,4566,16,Feel treated fairly at work?,3
+59259,4566,1,Individual,5
+59259,4566,2,Interpersonal,5
+59259,4566,3,Social,4
+59259,4566,4,Overall,5
+59259,4566,5,Feel you had nothing to look forward to?,2
+59259,4566,10,Feel intolerant of anything that kept you from what you were doing?,2
+59259,4566,15,Feel recognized and appreciated at work?,3
+59259,4566,19,Feel that management trusted the employees to do their work well?,2
+59259,4566,20,Trust management?,3
+59259,4566,23,Get exposed to undesired sexual attention or violence?,0
+59259,4566,6,Feel that life was meaningless?,0
+59259,4566,7,Feel scared without any good reason?,0
+59259,4566,8,Feel you were close to panic?,1
+59259,4566,9,Found it hard to wind down?,1
+59259,4566,12,Get behind in your work?,1
+59259,4566,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59259,4566,18,Worry about becoming unemployed or being transferred against your will?,0
+59259,4566,17,Feel there is a good relationship with your colleagues?,3
+59259,4566,21,Feel conflicts were resolved in a fair way?,3
+59259,4566,22,Feel work negatively affected your private life?,1
+59259,4566,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59243,4623,4,Overall,2
+59491,4619,8,Feel you were close to panic?,1
+59491,4619,12,Get behind in your work?,0
+59491,4619,15,Feel recognized and appreciated at work?,3
+59491,4619,4,Overall,4
+59491,4619,17,Feel there is a good relationship with your colleagues?,3
+59491,4619,22,Feel work negatively affected your private life?,0
+59243,4623,6,Feel that life was meaningless?,1
+59243,4623,12,Get behind in your work?,1
+59491,4619,1,Individual,2
+59491,4619,10,Feel intolerant of anything that kept you from what you were doing?,1
+59491,4619,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59491,4619,14,Find your work meaningful?,2
+59491,4619,2,Interpersonal,2
+59491,4619,3,Social,4
+59491,4619,5,Feel you had nothing to look forward to?,0
+59491,4619,6,Feel that life was meaningless?,0
+59491,4619,7,Feel scared without any good reason?,1
+59491,4619,9,Found it hard to wind down?,1
+59491,4619,13,Influence decisions concerning your work?,0
+59491,4619,16,Feel treated fairly at work?,3
+59491,4619,18,Worry about becoming unemployed or being transferred against your will?,1
+59491,4619,19,Feel that management trusted the employees to do their work well?,2
+59491,4619,20,Trust management?,1
+59491,4619,21,Feel conflicts were resolved in a fair way?,0
+59491,4619,23,Get exposed to undesired sexual attention or violence?,0
+59491,4619,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59243,4623,1,Individual,2
+59243,4623,2,Interpersonal,2
+59243,4623,3,Social,3
+59243,4623,5,Feel you had nothing to look forward to?,1
+59243,4623,7,Feel scared without any good reason?,1
+59243,4623,8,Feel you were close to panic?,2
+59243,4623,9,Found it hard to wind down?,1
+59243,4623,10,Feel intolerant of anything that kept you from what you were doing?,1
+59243,4623,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59243,4623,13,Influence decisions concerning your work?,0
+59243,4623,14,Find your work meaningful?,1
+59243,4623,15,Feel recognized and appreciated at work?,2
+59243,4623,16,Feel treated fairly at work?,2
+59243,4623,17,Feel there is a good relationship with your colleagues?,1
+59243,4623,18,Worry about becoming unemployed or being transferred against your will?,0
+59243,4623,19,Feel that management trusted the employees to do their work well?,2
+59243,4623,20,Trust management?,1
+59243,4623,21,Feel conflicts were resolved in a fair way?,1
+59243,4623,22,Feel work negatively affected your private life?,1
+59243,4623,23,Get exposed to undesired sexual attention or violence?,0
+59243,4623,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59146,4689,1,Individual,3
+59146,4689,2,Interpersonal,4
+59146,4689,3,Social,2
+59146,4689,4,Overall,2
+59146,4689,5,Feel you had nothing to look forward to?,2
+59146,4689,6,Feel that life was meaningless?,1
+59146,4689,7,Feel scared without any good reason?,1
+59146,4689,8,Feel you were close to panic?,2
+59146,4689,9,Found it hard to wind down?,1
+59146,4689,10,Feel intolerant of anything that kept you from what you were doing?,2
+59146,4689,11,"Feel guilty about substance use (alcohol, drugs, etc)?",3
+59146,4689,12,Get behind in your work?,2
+59146,4689,13,Influence decisions concerning your work?,2
+59146,4689,14,Find your work meaningful?,1
+59146,4689,15,Feel recognized and appreciated at work?,2
+59146,4689,16,Feel treated fairly at work?,3
+59146,4689,17,Feel there is a good relationship with your colleagues?,3
+59146,4689,18,Worry about becoming unemployed or being transferred against your will?,0
+59146,4689,19,Feel that management trusted the employees to do their work well?,2
+59146,4689,20,Trust management?,3
+59146,4689,21,Feel conflicts were resolved in a fair way?,2
+59146,4689,22,Feel work negatively affected your private life?,1
+59146,4689,23,Get exposed to undesired sexual attention or violence?,0
+59146,4689,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59414,4690,1,Individual,2
+59414,4690,2,Interpersonal,2
+59414,4690,3,Social,3
+59414,4690,4,Overall,2
+59414,4690,5,Feel you had nothing to look forward to?,2
+59414,4690,6,Feel that life was meaningless?,1
+59414,4690,7,Feel scared without any good reason?,3
+59414,4690,8,Feel you were close to panic?,2
+59414,4690,9,Found it hard to wind down?,2
+59414,4690,10,Feel intolerant of anything that kept you from what you were doing?,2
+59414,4690,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59414,4690,12,Get behind in your work?,0
+59414,4690,13,Influence decisions concerning your work?,1
+59414,4690,14,Find your work meaningful?,1
+59414,4690,15,Feel recognized and appreciated at work?,2
+59414,4690,16,Feel treated fairly at work?,2
+59414,4690,17,Feel there is a good relationship with your colleagues?,2
+59414,4690,18,Worry about becoming unemployed or being transferred against your will?,1
+59414,4690,19,Feel that management trusted the employees to do their work well?,2
+59414,4690,20,Trust management?,1
+59414,4690,21,Feel conflicts were resolved in a fair way?,1
+59414,4690,22,Feel work negatively affected your private life?,1
+59414,4690,23,Get exposed to undesired sexual attention or violence?,0
+59414,4690,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59411,4695,4,Overall,4
+59411,4695,16,Feel treated fairly at work?,2
+59411,4695,19,Feel that management trusted the employees to do their work well?,2
+59520,4696,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59520,4696,20,Trust management?,2
+59520,4696,23,Get exposed to undesired sexual attention or violence?,0
+59520,4696,6,Feel that life was meaningless?,1
+59520,4696,12,Get behind in your work?,0
+59411,4695,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59411,4695,23,Get exposed to undesired sexual attention or violence?,0
+59520,4696,16,Feel treated fairly at work?,3
+59520,4696,4,Overall,4
+59520,4696,19,Feel that management trusted the employees to do their work well?,2
+59411,4695,8,Feel you were close to panic?,1
+59520,4696,1,Individual,4
+59411,4695,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59411,4695,7,Feel scared without any good reason?,1
+59411,4695,12,Get behind in your work?,2
+59411,4695,17,Feel there is a good relationship with your colleagues?,2
+59520,4696,7,Feel scared without any good reason?,1
+59520,4696,15,Feel recognized and appreciated at work?,2
+59411,4695,1,Individual,3
+59520,4696,10,Feel intolerant of anything that kept you from what you were doing?,0
+59411,4695,2,Interpersonal,2
+59411,4695,3,Social,1
+59411,4695,5,Feel you had nothing to look forward to?,0
+59411,4695,6,Feel that life was meaningless?,0
+59411,4695,9,Found it hard to wind down?,0
+59411,4695,10,Feel intolerant of anything that kept you from what you were doing?,2
+59411,4695,13,Influence decisions concerning your work?,1
+59411,4695,14,Find your work meaningful?,2
+59411,4695,15,Feel recognized and appreciated at work?,2
+59411,4695,18,Worry about becoming unemployed or being transferred against your will?,1
+59411,4695,20,Trust management?,1
+59411,4695,21,Feel conflicts were resolved in a fair way?,2
+59411,4695,22,Feel work negatively affected your private life?,0
+59520,4696,2,Interpersonal,4
+59520,4696,5,Feel you had nothing to look forward to?,3
+59520,4696,8,Feel you were close to panic?,2
+59520,4696,9,Found it hard to wind down?,1
+59520,4696,14,Find your work meaningful?,1
+59520,4696,21,Feel conflicts were resolved in a fair way?,2
+59520,4696,22,Feel work negatively affected your private life?,0
+59520,4696,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59520,4696,3,Social,2
+59520,4696,13,Influence decisions concerning your work?,0
+59520,4696,17,Feel there is a good relationship with your colleagues?,2
+59520,4696,18,Worry about becoming unemployed or being transferred against your will?,0
+59512,4704,21,Feel conflicts were resolved in a fair way?,2
+59512,4704,1,Individual,2
+59512,4704,2,Interpersonal,4
+59512,4704,20,Trust management?,2
+59512,4704,3,Social,4
+59512,4704,4,Overall,2
+59512,4704,5,Feel you had nothing to look forward to?,2
+59512,4704,6,Feel that life was meaningless?,1
+59512,4704,7,Feel scared without any good reason?,0
+59512,4704,8,Feel you were close to panic?,0
+59512,4704,9,Found it hard to wind down?,1
+59512,4704,10,Feel intolerant of anything that kept you from what you were doing?,1
+59512,4704,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59512,4704,12,Get behind in your work?,0
+59512,4704,13,Influence decisions concerning your work?,0
+59512,4704,14,Find your work meaningful?,0
+59512,4704,15,Feel recognized and appreciated at work?,1
+59512,4704,16,Feel treated fairly at work?,2
+59512,4704,17,Feel there is a good relationship with your colleagues?,3
+59512,4704,18,Worry about becoming unemployed or being transferred against your will?,0
+59512,4704,19,Feel that management trusted the employees to do their work well?,2
+59512,4704,22,Feel work negatively affected your private life?,0
+59512,4704,23,Get exposed to undesired sexual attention or violence?,0
+59512,4704,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59407,4714,6,Feel that life was meaningless?,0
+59407,4714,14,Find your work meaningful?,1
+59407,4714,10,Feel intolerant of anything that kept you from what you were doing?,0
+59407,4714,13,Influence decisions concerning your work?,1
+59407,4714,1,Individual,3
+59407,4714,20,Trust management?,2
+59407,4714,4,Overall,3
+59407,4714,8,Feel you were close to panic?,0
+59407,4714,7,Feel scared without any good reason?,0
+59407,4714,21,Feel conflicts were resolved in a fair way?,1
+59407,4714,9,Found it hard to wind down?,2
+59407,4714,16,Feel treated fairly at work?,2
+59407,4714,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59407,4714,5,Feel you had nothing to look forward to?,1
+59407,4714,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59407,4714,15,Feel recognized and appreciated at work?,1
+59407,4714,22,Feel work negatively affected your private life?,1
+59407,4714,2,Interpersonal,3
+59407,4714,17,Feel there is a good relationship with your colleagues?,3
+59407,4714,18,Worry about becoming unemployed or being transferred against your will?,0
+59407,4714,3,Social,4
+59407,4714,12,Get behind in your work?,0
+59407,4714,19,Feel that management trusted the employees to do their work well?,2
+59407,4714,23,Get exposed to undesired sexual attention or violence?,0
+59291,4734,15,Feel recognized and appreciated at work?,3
+59291,4734,4,Overall,5
+59291,4734,9,Found it hard to wind down?,1
+59291,4734,12,Get behind in your work?,1
+59291,4734,14,Find your work meaningful?,3
+59291,4734,19,Feel that management trusted the employees to do their work well?,3
+59291,4734,20,Trust management?,3
+59291,4734,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59161,4741,1,Individual,2
+59161,4741,5,Feel you had nothing to look forward to?,1
+59291,4734,3,Social,5
+59291,4734,5,Feel you had nothing to look forward to?,1
+59291,4734,6,Feel that life was meaningless?,1
+59161,4741,17,Feel there is a good relationship with your colleagues?,3
+59291,4734,2,Interpersonal,5
+59161,4741,4,Overall,1
+59291,4734,10,Feel intolerant of anything that kept you from what you were doing?,0
+59291,4734,21,Feel conflicts were resolved in a fair way?,3
+59291,4734,22,Feel work negatively affected your private life?,0
+59291,4734,13,Influence decisions concerning your work?,1
+59291,4734,18,Worry about becoming unemployed or being transferred against your will?,2
+59291,4734,7,Feel scared without any good reason?,0
+59291,4734,16,Feel treated fairly at work?,1
+59291,4734,8,Feel you were close to panic?,0
+59291,4734,23,Get exposed to undesired sexual attention or violence?,0
+59291,4734,1,Individual,5
+59291,4734,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59291,4734,17,Feel there is a good relationship with your colleagues?,3
+59161,4741,3,Social,3
+59161,4741,14,Find your work meaningful?,1
+59161,4741,2,Interpersonal,3
+59161,4741,6,Feel that life was meaningless?,0
+59161,4741,7,Feel scared without any good reason?,1
+59161,4741,8,Feel you were close to panic?,2
+59161,4741,9,Found it hard to wind down?,3
+59161,4741,10,Feel intolerant of anything that kept you from what you were doing?,1
+59161,4741,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59161,4741,12,Get behind in your work?,0
+59161,4741,13,Influence decisions concerning your work?,0
+59161,4741,15,Feel recognized and appreciated at work?,2
+59161,4741,16,Feel treated fairly at work?,3
+59161,4741,18,Worry about becoming unemployed or being transferred against your will?,1
+59161,4741,19,Feel that management trusted the employees to do their work well?,2
+59161,4741,20,Trust management?,2
+59161,4741,21,Feel conflicts were resolved in a fair way?,3
+59161,4741,22,Feel work negatively affected your private life?,1
+59161,4741,23,Get exposed to undesired sexual attention or violence?,0
+59161,4741,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59483,4421,21,Feel conflicts were resolved in a fair way?,1
+59483,4421,18,Worry about becoming unemployed or being transferred against your will?,2
+59483,4421,4,Overall,4
+59483,4421,3,Social,3
+59483,4421,5,Feel you had nothing to look forward to?,1
+59483,4421,9,Found it hard to wind down?,2
+59483,4421,15,Feel recognized and appreciated at work?,2
+59483,4421,6,Feel that life was meaningless?,0
+59483,4421,23,Get exposed to undesired sexual attention or violence?,0
+59483,4421,1,Individual,4
+59483,4421,2,Interpersonal,4
+59483,4421,7,Feel scared without any good reason?,1
+59483,4421,8,Feel you were close to panic?,1
+59483,4421,10,Feel intolerant of anything that kept you from what you were doing?,1
+59483,4421,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59483,4421,12,Get behind in your work?,0
+59483,4421,13,Influence decisions concerning your work?,1
+59483,4421,14,Find your work meaningful?,1
+59483,4421,16,Feel treated fairly at work?,1
+59483,4421,17,Feel there is a good relationship with your colleagues?,2
+59483,4421,19,Feel that management trusted the employees to do their work well?,1
+59483,4421,20,Trust management?,1
+59483,4421,22,Feel work negatively affected your private life?,0
+59483,4421,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59473,4862,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59473,4862,5,Feel you had nothing to look forward to?,0
+59473,4862,18,Worry about becoming unemployed or being transferred against your will?,1
+59473,4862,1,Individual,3
+59473,4862,2,Interpersonal,3
+59473,4862,3,Social,3
+59473,4862,4,Overall,3
+59473,4862,6,Feel that life was meaningless?,0
+59473,4862,7,Feel scared without any good reason?,0
+59473,4862,8,Feel you were close to panic?,0
+59473,4862,9,Found it hard to wind down?,1
+59473,4862,10,Feel intolerant of anything that kept you from what you were doing?,1
+59473,4862,12,Get behind in your work?,1
+59473,4862,13,Influence decisions concerning your work?,2
+59473,4862,14,Find your work meaningful?,2
+59473,4862,15,Feel recognized and appreciated at work?,2
+59473,4862,16,Feel treated fairly at work?,3
+59473,4862,17,Feel there is a good relationship with your colleagues?,2
+59473,4862,19,Feel that management trusted the employees to do their work well?,3
+59473,4862,20,Trust management?,3
+59473,4862,21,Feel conflicts were resolved in a fair way?,2
+59473,4862,22,Feel work negatively affected your private life?,0
+59473,4862,23,Get exposed to undesired sexual attention or violence?,0
+59473,4862,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59351,4873,1,Individual,3
+59351,4873,2,Interpersonal,4
+59351,4873,3,Social,3
+59351,4873,4,Overall,2
+59351,4873,5,Feel you had nothing to look forward to?,2
+59351,4873,6,Feel that life was meaningless?,1
+59351,4873,7,Feel scared without any good reason?,0
+59351,4873,8,Feel you were close to panic?,0
+59351,4873,9,Found it hard to wind down?,3
+59351,4873,10,Feel intolerant of anything that kept you from what you were doing?,1
+59351,4873,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59351,4873,12,Get behind in your work?,1
+59351,4873,13,Influence decisions concerning your work?,1
+59351,4873,14,Find your work meaningful?,1
+59351,4873,15,Feel recognized and appreciated at work?,1
+59351,4873,16,Feel treated fairly at work?,0
+59351,4873,17,Feel there is a good relationship with your colleagues?,1
+59351,4873,18,Worry about becoming unemployed or being transferred against your will?,0
+59351,4873,19,Feel that management trusted the employees to do their work well?,3
+59351,4873,20,Trust management?,3
+59351,4873,21,Feel conflicts were resolved in a fair way?,2
+59351,4873,22,Feel work negatively affected your private life?,3
+59351,4873,23,Get exposed to undesired sexual attention or violence?,0
+59351,4873,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59289,4874,1,Individual,5
+59289,4874,2,Interpersonal,5
+59289,4874,3,Social,3
+59289,4874,4,Overall,4
+59289,4874,5,Feel you had nothing to look forward to?,1
+59289,4874,6,Feel that life was meaningless?,0
+59289,4874,7,Feel scared without any good reason?,0
+59289,4874,8,Feel you were close to panic?,0
+59289,4874,9,Found it hard to wind down?,1
+59289,4874,10,Feel intolerant of anything that kept you from what you were doing?,1
+59289,4874,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59289,4874,12,Get behind in your work?,0
+59289,4874,13,Influence decisions concerning your work?,0
+59289,4874,14,Find your work meaningful?,2
+59289,4874,15,Feel recognized and appreciated at work?,3
+59289,4874,16,Feel treated fairly at work?,3
+59289,4874,17,Feel there is a good relationship with your colleagues?,3
+59289,4874,18,Worry about becoming unemployed or being transferred against your will?,0
+59289,4874,19,Feel that management trusted the employees to do their work well?,3
+59289,4874,20,Trust management?,3
+59289,4874,21,Feel conflicts were resolved in a fair way?,3
+59289,4874,22,Feel work negatively affected your private life?,1
+59289,4874,23,Get exposed to undesired sexual attention or violence?,0
+59289,4874,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59301,4554,12,Get behind in your work?,0
+59211,4878,5,Feel you had nothing to look forward to?,1
+59211,4878,6,Feel that life was meaningless?,0
+59301,4554,4,Overall,3
+59301,4554,8,Feel you were close to panic?,1
+59301,4554,10,Feel intolerant of anything that kept you from what you were doing?,1
+59301,4554,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59301,4554,17,Feel there is a good relationship with your colleagues?,2
+59301,4554,5,Feel you had nothing to look forward to?,1
+59301,4554,19,Feel that management trusted the employees to do their work well?,2
+59301,4554,9,Found it hard to wind down?,3
+59301,4554,15,Feel recognized and appreciated at work?,1
+59211,4878,9,Found it hard to wind down?,1
+59301,4554,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59301,4554,1,Individual,3
+59301,4554,2,Interpersonal,2
+59301,4554,3,Social,3
+59301,4554,6,Feel that life was meaningless?,1
+59301,4554,7,Feel scared without any good reason?,1
+59301,4554,13,Influence decisions concerning your work?,1
+59301,4554,14,Find your work meaningful?,1
+59301,4554,16,Feel treated fairly at work?,1
+59301,4554,18,Worry about becoming unemployed or being transferred against your will?,1
+59301,4554,20,Trust management?,2
+59301,4554,21,Feel conflicts were resolved in a fair way?,1
+59301,4554,22,Feel work negatively affected your private life?,2
+59301,4554,23,Get exposed to undesired sexual attention or violence?,1
+59211,4878,1,Individual,5
+59211,4878,2,Interpersonal,5
+59211,4878,3,Social,5
+59211,4878,4,Overall,5
+59211,4878,7,Feel scared without any good reason?,0
+59211,4878,8,Feel you were close to panic?,0
+59211,4878,10,Feel intolerant of anything that kept you from what you were doing?,0
+59211,4878,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59211,4878,12,Get behind in your work?,0
+59211,4878,13,Influence decisions concerning your work?,0
+59211,4878,14,Find your work meaningful?,2
+59211,4878,15,Feel recognized and appreciated at work?,1
+59211,4878,16,Feel treated fairly at work?,2
+59211,4878,17,Feel there is a good relationship with your colleagues?,1
+59211,4878,18,Worry about becoming unemployed or being transferred against your will?,1
+59211,4878,19,Feel that management trusted the employees to do their work well?,3
+59211,4878,20,Trust management?,2
+59211,4878,21,Feel conflicts were resolved in a fair way?,1
+59211,4878,22,Feel work negatively affected your private life?,0
+59211,4878,23,Get exposed to undesired sexual attention or violence?,0
+59211,4878,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59145,4885,1,Individual,4
+59145,4885,2,Interpersonal,5
+59145,4885,3,Social,3
+59145,4885,4,Overall,4
+59145,4885,5,Feel you had nothing to look forward to?,0
+59145,4885,6,Feel that life was meaningless?,0
+59145,4885,7,Feel scared without any good reason?,1
+59145,4885,8,Feel you were close to panic?,1
+59145,4885,9,Found it hard to wind down?,1
+59145,4885,10,Feel intolerant of anything that kept you from what you were doing?,1
+59145,4885,11,"Feel guilty about substance use (alcohol, drugs, etc)?",3
+59145,4885,12,Get behind in your work?,1
+59145,4885,13,Influence decisions concerning your work?,1
+59145,4885,14,Find your work meaningful?,1
+59145,4885,15,Feel recognized and appreciated at work?,1
+59145,4885,16,Feel treated fairly at work?,1
+59145,4885,17,Feel there is a good relationship with your colleagues?,2
+59145,4885,18,Worry about becoming unemployed or being transferred against your will?,1
+59145,4885,19,Feel that management trusted the employees to do their work well?,2
+59145,4885,20,Trust management?,2
+59145,4885,21,Feel conflicts were resolved in a fair way?,2
+59145,4885,22,Feel work negatively affected your private life?,0
+59145,4885,23,Get exposed to undesired sexual attention or violence?,0
+59145,4885,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59492,4898,1,Individual,4
+59492,4898,15,Feel recognized and appreciated at work?,2
+59469,4901,18,Worry about becoming unemployed or being transferred against your will?,1
+59492,4898,17,Feel there is a good relationship with your colleagues?,2
+59492,4898,23,Get exposed to undesired sexual attention or violence?,0
+59469,4901,1,Individual,4
+59469,4901,8,Feel you were close to panic?,0
+59240,4899,12,Get behind in your work?,0
+59469,4901,3,Social,2
+59492,4898,10,Feel intolerant of anything that kept you from what you were doing?,1
+59240,4899,19,Feel that management trusted the employees to do their work well?,3
+59240,4899,22,Feel work negatively affected your private life?,0
+59240,4899,7,Feel scared without any good reason?,0
+59240,4899,18,Worry about becoming unemployed or being transferred against your will?,0
+59492,4898,3,Social,4
+59492,4898,9,Found it hard to wind down?,1
+59469,4901,5,Feel you had nothing to look forward to?,1
+59469,4901,20,Trust management?,2
+59469,4901,9,Found it hard to wind down?,3
+59492,4898,14,Find your work meaningful?,2
+59492,4898,20,Trust management?,2
+59240,4899,15,Feel recognized and appreciated at work?,3
+59487,4920,19,Feel that management trusted the employees to do their work well?,1
+59521,4946,9,Found it hard to wind down?,1
+59521,4946,10,Feel intolerant of anything that kept you from what you were doing?,1
+59492,4898,13,Influence decisions concerning your work?,1
+59240,4899,8,Feel you were close to panic?,0
+59240,4899,10,Feel intolerant of anything that kept you from what you were doing?,0
+59240,4899,23,Get exposed to undesired sexual attention or violence?,0
+59469,4901,22,Feel work negatively affected your private life?,1
+59492,4898,4,Overall,4
+59492,4898,5,Feel you had nothing to look forward to?,0
+59240,4899,4,Overall,5
+59240,4899,21,Feel conflicts were resolved in a fair way?,3
+59240,4899,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59469,4901,12,Get behind in your work?,1
+59469,4901,21,Feel conflicts were resolved in a fair way?,3
+59492,4898,2,Interpersonal,4
+59240,4899,13,Influence decisions concerning your work?,0
+59469,4901,6,Feel that life was meaningless?,1
+59469,4901,16,Feel treated fairly at work?,2
+59459,4921,19,Feel that management trusted the employees to do their work well?,1
+59487,4920,9,Found it hard to wind down?,1
+59487,4920,15,Feel recognized and appreciated at work?,2
+59521,4946,2,Interpersonal,2
+59492,4898,18,Worry about becoming unemployed or being transferred against your will?,0
+59240,4899,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59469,4901,4,Overall,3
+59469,4901,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59492,4898,16,Feel treated fairly at work?,2
+59469,4901,17,Feel there is a good relationship with your colleagues?,3
+59469,4901,19,Feel that management trusted the employees to do their work well?,3
+59459,4921,2,Interpersonal,3
+59459,4921,13,Influence decisions concerning your work?,1
+59521,4946,23,Get exposed to undesired sexual attention or violence?,0
+59492,4898,7,Feel scared without any good reason?,0
+59492,4898,19,Feel that management trusted the employees to do their work well?,2
+59240,4899,3,Social,4
+59240,4899,9,Found it hard to wind down?,1
+59469,4901,2,Interpersonal,5
+59240,4899,2,Interpersonal,5
+59492,4898,6,Feel that life was meaningless?,0
+59492,4898,8,Feel you were close to panic?,0
+59492,4898,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59492,4898,12,Get behind in your work?,0
+59492,4898,21,Feel conflicts were resolved in a fair way?,2
+59492,4898,22,Feel work negatively affected your private life?,1
+59492,4898,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59240,4899,1,Individual,5
+59240,4899,5,Feel you had nothing to look forward to?,1
+59240,4899,6,Feel that life was meaningless?,0
+59240,4899,14,Find your work meaningful?,2
+59240,4899,16,Feel treated fairly at work?,3
+59240,4899,17,Feel there is a good relationship with your colleagues?,3
+59240,4899,20,Trust management?,3
+59469,4901,7,Feel scared without any good reason?,0
+59469,4901,10,Feel intolerant of anything that kept you from what you were doing?,2
+59469,4901,13,Influence decisions concerning your work?,2
+59469,4901,14,Find your work meaningful?,2
+59469,4901,15,Feel recognized and appreciated at work?,2
+59469,4901,23,Get exposed to undesired sexual attention or violence?,0
+59469,4901,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59459,4921,4,Overall,3
+59459,4921,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59459,4921,17,Feel there is a good relationship with your colleagues?,3
+59459,4921,20,Trust management?,0
+59487,4920,12,Get behind in your work?,3
+59487,4920,13,Influence decisions concerning your work?,1
+59487,4920,23,Get exposed to undesired sexual attention or violence?,0
+59487,4920,8,Feel you were close to panic?,1
+59487,4920,20,Trust management?,0
+59459,4921,1,Individual,3
+59459,4921,3,Social,2
+59487,4920,3,Social,4
+59459,4921,6,Feel that life was meaningless?,1
+59459,4921,10,Feel intolerant of anything that kept you from what you were doing?,2
+59459,4921,12,Get behind in your work?,1
+59487,4920,6,Feel that life was meaningless?,0
+59459,4921,23,Get exposed to undesired sexual attention or violence?,0
+59459,4921,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59487,4920,14,Find your work meaningful?,1
+59487,4920,22,Feel work negatively affected your private life?,2
+59487,4920,1,Individual,2
+59459,4921,5,Feel you had nothing to look forward to?,2
+59459,4921,8,Feel you were close to panic?,1
+59459,4921,16,Feel treated fairly at work?,1
+59487,4920,2,Interpersonal,4
+59459,4921,9,Found it hard to wind down?,1
+59459,4921,14,Find your work meaningful?,0
+59487,4920,7,Feel scared without any good reason?,0
+59459,4921,21,Feel conflicts were resolved in a fair way?,1
+59487,4920,4,Overall,3
+59459,4921,7,Feel scared without any good reason?,0
+59459,4921,15,Feel recognized and appreciated at work?,0
+59487,4920,17,Feel there is a good relationship with your colleagues?,3
+59459,4921,18,Worry about becoming unemployed or being transferred against your will?,0
+59487,4920,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59487,4920,10,Feel intolerant of anything that kept you from what you were doing?,1
+59487,4920,5,Feel you had nothing to look forward to?,2
+59459,4921,22,Feel work negatively affected your private life?,0
+59487,4920,16,Feel treated fairly at work?,1
+59487,4920,18,Worry about becoming unemployed or being transferred against your will?,0
+59487,4920,21,Feel conflicts were resolved in a fair way?,1
+59487,4920,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59521,4946,13,Influence decisions concerning your work?,0
+59521,4946,14,Find your work meaningful?,2
+59521,4946,17,Feel there is a good relationship with your colleagues?,1
+59521,4946,1,Individual,2
+59521,4946,3,Social,3
+59521,4946,4,Overall,3
+59521,4946,5,Feel you had nothing to look forward to?,1
+59521,4946,6,Feel that life was meaningless?,1
+59521,4946,7,Feel scared without any good reason?,0
+59521,4946,8,Feel you were close to panic?,0
+59521,4946,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59521,4946,12,Get behind in your work?,0
+59521,4946,15,Feel recognized and appreciated at work?,2
+59521,4946,16,Feel treated fairly at work?,2
+59521,4946,18,Worry about becoming unemployed or being transferred against your will?,1
+59521,4946,19,Feel that management trusted the employees to do their work well?,3
+59521,4946,20,Trust management?,1
+59521,4946,21,Feel conflicts were resolved in a fair way?,1
+59521,4946,22,Feel work negatively affected your private life?,1
+59521,4946,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59503,4951,2,Interpersonal,4
+59503,4951,22,Feel work negatively affected your private life?,3
+59503,4951,3,Social,3
+59503,4951,1,Individual,3
+59503,4951,4,Overall,3
+59503,4951,5,Feel you had nothing to look forward to?,0
+59503,4951,6,Feel that life was meaningless?,0
+59503,4951,7,Feel scared without any good reason?,1
+59503,4951,8,Feel you were close to panic?,2
+59503,4951,9,Found it hard to wind down?,2
+59503,4951,10,Feel intolerant of anything that kept you from what you were doing?,2
+59503,4951,11,"Feel guilty about substance use (alcohol, drugs, etc)?",2
+59503,4951,12,Get behind in your work?,0
+59503,4951,13,Influence decisions concerning your work?,1
+59503,4951,14,Find your work meaningful?,1
+59503,4951,15,Feel recognized and appreciated at work?,1
+59503,4951,16,Feel treated fairly at work?,0
+59503,4951,17,Feel there is a good relationship with your colleagues?,3
+59503,4951,18,Worry about becoming unemployed or being transferred against your will?,3
+59503,4951,19,Feel that management trusted the employees to do their work well?,1
+59503,4951,20,Trust management?,1
+59503,4951,21,Feel conflicts were resolved in a fair way?,1
+59503,4951,23,Get exposed to undesired sexual attention or violence?,0
+59503,4951,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+60078,4952,1,Individual,5
+60078,4952,2,Interpersonal,5
+60078,4952,3,Social,5
+60078,4952,4,Overall,5
+60078,4952,5,Feel you had nothing to look forward to?,0
+60078,4952,6,Feel that life was meaningless?,0
+60078,4952,7,Feel scared without any good reason?,0
+60078,4952,8,Feel you were close to panic?,0
+60078,4952,9,Found it hard to wind down?,0
+60078,4952,10,Feel intolerant of anything that kept you from what you were doing?,1
+60078,4952,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+60078,4952,12,Get behind in your work?,1
+60078,4952,13,Influence decisions concerning your work?,2
+60078,4952,14,Find your work meaningful?,2
+60078,4952,15,Feel recognized and appreciated at work?,2
+60078,4952,16,Feel treated fairly at work?,3
+60078,4952,17,Feel there is a good relationship with your colleagues?,3
+60078,4952,18,Worry about becoming unemployed or being transferred against your will?,1
+60078,4952,19,Feel that management trusted the employees to do their work well?,2
+60078,4952,20,Trust management?,2
+60078,4952,23,Get exposed to undesired sexual attention or violence?,0
+60078,4952,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+60078,4952,21,Feel conflicts were resolved in a fair way?,3
+60078,4952,22,Feel work negatively affected your private life?,1
+59190,4960,1,Individual,3
+59190,4960,8,Feel you were close to panic?,0
+59190,4960,22,Feel work negatively affected your private life?,1
+59190,4960,15,Feel recognized and appreciated at work?,1
+59190,4960,2,Interpersonal,4
+59190,4960,3,Social,4
+59190,4960,5,Feel you had nothing to look forward to?,1
+59190,4960,10,Feel intolerant of anything that kept you from what you were doing?,1
+59190,4960,13,Influence decisions concerning your work?,1
+59190,4960,20,Trust management?,2
+59397,4963,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59397,4963,15,Feel recognized and appreciated at work?,1
+59397,4963,16,Feel treated fairly at work?,2
+59397,4963,22,Feel work negatively affected your private life?,1
+59190,4960,4,Overall,3
+59190,4960,6,Feel that life was meaningless?,0
+59190,4960,7,Feel scared without any good reason?,0
+59190,4960,9,Found it hard to wind down?,2
+59190,4960,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59190,4960,12,Get behind in your work?,0
+59190,4960,14,Find your work meaningful?,1
+59190,4960,16,Feel treated fairly at work?,2
+59190,4960,17,Feel there is a good relationship with your colleagues?,3
+59190,4960,18,Worry about becoming unemployed or being transferred against your will?,0
+59190,4960,19,Feel that management trusted the employees to do their work well?,3
+59190,4960,21,Feel conflicts were resolved in a fair way?,3
+59190,4960,23,Get exposed to undesired sexual attention or violence?,0
+59190,4960,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59397,4963,1,Individual,3
+59397,4963,2,Interpersonal,4
+59397,4963,3,Social,4
+59397,4963,4,Overall,3
+59397,4963,5,Feel you had nothing to look forward to?,2
+59397,4963,6,Feel that life was meaningless?,0
+59397,4963,7,Feel scared without any good reason?,0
+59397,4963,8,Feel you were close to panic?,1
+59397,4963,9,Found it hard to wind down?,0
+59397,4963,10,Feel intolerant of anything that kept you from what you were doing?,1
+59397,4963,12,Get behind in your work?,0
+59397,4963,13,Influence decisions concerning your work?,1
+59397,4963,14,Find your work meaningful?,1
+59397,4963,17,Feel there is a good relationship with your colleagues?,2
+59397,4963,18,Worry about becoming unemployed or being transferred against your will?,1
+59397,4963,19,Feel that management trusted the employees to do their work well?,2
+59397,4963,20,Trust management?,3
+59397,4963,21,Feel conflicts were resolved in a fair way?,3
+59397,4963,23,Get exposed to undesired sexual attention or violence?,0
+59397,4963,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59402,5007,10,Feel intolerant of anything that kept you from what you were doing?,0
+59402,5007,16,Feel treated fairly at work?,1
+59402,5007,12,Get behind in your work?,1
+59402,5007,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59402,5007,17,Feel there is a good relationship with your colleagues?,1
+59402,5007,3,Social,4
+59402,5007,6,Feel that life was meaningless?,3
+59402,5007,21,Feel conflicts were resolved in a fair way?,1
+59402,5007,1,Individual,5
+59402,5007,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59402,5007,4,Overall,3
+59402,5007,15,Feel recognized and appreciated at work?,0
+59402,5007,19,Feel that management trusted the employees to do their work well?,2
+59402,5007,20,Trust management?,0
+59402,5007,9,Found it hard to wind down?,1
+59402,5007,13,Influence decisions concerning your work?,1
+59402,5007,14,Find your work meaningful?,2
+59402,5007,2,Interpersonal,1
+59402,5007,5,Feel you had nothing to look forward to?,1
+59402,5007,7,Feel scared without any good reason?,0
+59402,5007,8,Feel you were close to panic?,1
+59402,5007,18,Worry about becoming unemployed or being transferred against your will?,1
+59402,5007,22,Feel work negatively affected your private life?,0
+59402,5007,23,Get exposed to undesired sexual attention or violence?,0
+59451,5134,1,Individual,3
+59451,5134,2,Interpersonal,3
+59451,5134,3,Social,2
+59451,5134,4,Overall,3
+59451,5134,5,Feel you had nothing to look forward to?,1
+59451,5134,6,Feel that life was meaningless?,1
+59451,5134,7,Feel scared without any good reason?,0
+59451,5134,8,Feel you were close to panic?,0
+59451,5134,9,Found it hard to wind down?,1
+59451,5134,10,Feel intolerant of anything that kept you from what you were doing?,0
+59451,5134,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59451,5134,12,Get behind in your work?,0
+59451,5134,13,Influence decisions concerning your work?,0
+59451,5134,14,Find your work meaningful?,2
+59451,5134,15,Feel recognized and appreciated at work?,3
+59451,5134,16,Feel treated fairly at work?,3
+59451,5134,17,Feel there is a good relationship with your colleagues?,2
+59451,5134,18,Worry about becoming unemployed or being transferred against your will?,0
+59451,5134,19,Feel that management trusted the employees to do their work well?,3
+59451,5134,20,Trust management?,2
+59451,5134,21,Feel conflicts were resolved in a fair way?,0
+59451,5134,22,Feel work negatively affected your private life?,0
+59451,5134,23,Get exposed to undesired sexual attention or violence?,0
+59451,5134,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59228,4221,1,Individual,4
+59228,4221,2,Interpersonal,5
+59228,4221,3,Social,4
+59228,4221,4,Overall,4
+59228,4221,5,Feel you had nothing to look forward to?,0
+59228,4221,6,Feel that life was meaningless?,0
+59228,4221,7,Feel scared without any good reason?,2
+59228,4221,8,Feel you were close to panic?,2
+59228,4221,9,Found it hard to wind down?,1
+59228,4221,10,Feel intolerant of anything that kept you from what you were doing?,1
+59228,4221,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59228,4221,12,Get behind in your work?,0
+59228,4221,13,Influence decisions concerning your work?,1
+59228,4221,14,Find your work meaningful?,2
+59228,4221,15,Feel recognized and appreciated at work?,2
+59228,4221,16,Feel treated fairly at work?,3
+59228,4221,17,Feel there is a good relationship with your colleagues?,3
+59228,4221,18,Worry about becoming unemployed or being transferred against your will?,0
+59228,4221,19,Feel that management trusted the employees to do their work well?,3
+59228,4221,20,Trust management?,3
+59228,4221,21,Feel conflicts were resolved in a fair way?,3
+59228,4221,22,Feel work negatively affected your private life?,0
+59228,4221,23,Get exposed to undesired sexual attention or violence?,0
+59228,4221,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59273,5138,1,Individual,4
+59273,5138,2,Interpersonal,3
+59273,5138,3,Social,4
+59273,5138,4,Overall,4
+59273,5138,5,Feel you had nothing to look forward to?,0
+59273,5138,6,Feel that life was meaningless?,0
+59273,5138,7,Feel scared without any good reason?,0
+59273,5138,8,Feel you were close to panic?,0
+59273,5138,9,Found it hard to wind down?,1
+59273,5138,10,Feel intolerant of anything that kept you from what you were doing?,1
+59273,5138,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59273,5138,12,Get behind in your work?,0
+59273,5138,13,Influence decisions concerning your work?,1
+59273,5138,14,Find your work meaningful?,1
+59273,5138,15,Feel recognized and appreciated at work?,1
+59273,5138,16,Feel treated fairly at work?,2
+59273,5138,17,Feel there is a good relationship with your colleagues?,2
+59273,5138,18,Worry about becoming unemployed or being transferred against your will?,0
+59273,5138,21,Feel conflicts were resolved in a fair way?,3
+59273,5138,19,Feel that management trusted the employees to do their work well?,2
+59273,5138,20,Trust management?,3
+59273,5138,22,Feel work negatively affected your private life?,0
+59273,5138,23,Get exposed to undesired sexual attention or violence?,0
+59273,5138,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59179,5148,1,Individual,2
+59179,5148,2,Interpersonal,4
+59179,5148,3,Social,1
+59179,5148,4,Overall,2
+59179,5148,5,Feel you had nothing to look forward to?,1
+59179,5148,6,Feel that life was meaningless?,0
+59179,5148,7,Feel scared without any good reason?,0
+59179,5148,8,Feel you were close to panic?,0
+59179,5148,9,Found it hard to wind down?,2
+59179,5148,10,Feel intolerant of anything that kept you from what you were doing?,1
+59179,5148,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59179,5148,12,Get behind in your work?,1
+59179,5148,13,Influence decisions concerning your work?,2
+59179,5148,14,Find your work meaningful?,1
+59179,5148,15,Feel recognized and appreciated at work?,1
+59179,5148,16,Feel treated fairly at work?,1
+59179,5148,17,Feel there is a good relationship with your colleagues?,1
+59179,5148,18,Worry about becoming unemployed or being transferred against your will?,1
+59179,5148,19,Feel that management trusted the employees to do their work well?,1
+59179,5148,20,Trust management?,1
+59179,5148,21,Feel conflicts were resolved in a fair way?,1
+59179,5148,22,Feel work negatively affected your private life?,2
+59179,5148,23,Get exposed to undesired sexual attention or violence?,0
+59179,5148,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59276,5158,1,Individual,3
+59276,5158,2,Interpersonal,2
+59276,5158,3,Social,1
+59276,5158,4,Overall,1
+59276,5158,5,Feel you had nothing to look forward to?,3
+59276,5158,6,Feel that life was meaningless?,3
+59276,5158,7,Feel scared without any good reason?,2
+59276,5158,8,Feel you were close to panic?,2
+59276,5158,9,Found it hard to wind down?,2
+59276,5158,10,Feel intolerant of anything that kept you from what you were doing?,3
+59276,5158,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59276,5158,12,Get behind in your work?,1
+59276,5158,13,Influence decisions concerning your work?,1
+59276,5158,14,Find your work meaningful?,1
+59276,5158,15,Feel recognized and appreciated at work?,1
+59276,5158,16,Feel treated fairly at work?,1
+59276,5158,17,Feel there is a good relationship with your colleagues?,1
+59276,5158,18,Worry about becoming unemployed or being transferred against your will?,2
+59276,5158,19,Feel that management trusted the employees to do their work well?,3
+59276,5158,20,Trust management?,2
+59276,5158,21,Feel conflicts were resolved in a fair way?,2
+59276,5158,22,Feel work negatively affected your private life?,1
+59276,5158,23,Get exposed to undesired sexual attention or violence?,2
+59276,5158,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59502,5164,1,Individual,2
+59502,5164,2,Interpersonal,2
+59502,5164,3,Social,2
+59502,5164,4,Overall,2
+59502,5164,5,Feel you had nothing to look forward to?,1
+59502,5164,6,Feel that life was meaningless?,1
+59502,5164,7,Feel scared without any good reason?,1
+59502,5164,8,Feel you were close to panic?,1
+59502,5164,9,Found it hard to wind down?,1
+59502,5164,10,Feel intolerant of anything that kept you from what you were doing?,1
+59502,5164,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59502,5164,12,Get behind in your work?,1
+59502,5164,13,Influence decisions concerning your work?,1
+59502,5164,14,Find your work meaningful?,1
+59502,5164,15,Feel recognized and appreciated at work?,1
+59502,5164,16,Feel treated fairly at work?,1
+59502,5164,17,Feel there is a good relationship with your colleagues?,2
+59502,5164,18,Worry about becoming unemployed or being transferred against your will?,1
+59502,5164,19,Feel that management trusted the employees to do their work well?,1
+59502,5164,20,Trust management?,0
+59502,5164,21,Feel conflicts were resolved in a fair way?,1
+59502,5164,22,Feel work negatively affected your private life?,3
+59502,5164,23,Get exposed to undesired sexual attention or violence?,0
+59502,5164,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59406,4560,9,Found it hard to wind down?,2
+59406,4560,10,Feel intolerant of anything that kept you from what you were doing?,1
+59406,4560,4,Overall,3
+59406,4560,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59406,4560,12,Get behind in your work?,0
+59406,4560,8,Feel you were close to panic?,0
+59406,4560,15,Feel recognized and appreciated at work?,1
+59406,4560,1,Individual,3
+59406,4560,2,Interpersonal,1
+59406,4560,3,Social,3
+59406,4560,5,Feel you had nothing to look forward to?,2
+59406,4560,6,Feel that life was meaningless?,1
+59406,4560,7,Feel scared without any good reason?,0
+59406,4560,13,Influence decisions concerning your work?,0
+59406,4560,14,Find your work meaningful?,1
+59406,4560,16,Feel treated fairly at work?,1
+59406,4560,17,Feel there is a good relationship with your colleagues?,3
+59406,4560,18,Worry about becoming unemployed or being transferred against your will?,0
+59406,4560,19,Feel that management trusted the employees to do their work well?,2
+59406,4560,20,Trust management?,2
+59406,4560,21,Feel conflicts were resolved in a fair way?,2
+59406,4560,22,Feel work negatively affected your private life?,1
+59406,4560,23,Get exposed to undesired sexual attention or violence?,0
+59406,4560,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59296,5283,1,Individual,3
+59296,5283,2,Interpersonal,4
+59296,5283,3,Social,2
+59296,5283,4,Overall,4
+59296,5283,5,Feel you had nothing to look forward to?,1
+59296,5283,6,Feel that life was meaningless?,0
+59296,5283,7,Feel scared without any good reason?,2
+59296,5283,8,Feel you were close to panic?,2
+59296,5283,9,Found it hard to wind down?,2
+59296,5283,10,Feel intolerant of anything that kept you from what you were doing?,1
+59296,5283,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59296,5283,12,Get behind in your work?,2
+59296,5283,13,Influence decisions concerning your work?,0
+59296,5283,14,Find your work meaningful?,2
+59296,5283,15,Feel recognized and appreciated at work?,1
+59296,5283,16,Feel treated fairly at work?,1
+59296,5283,17,Feel there is a good relationship with your colleagues?,2
+59296,5283,18,Worry about becoming unemployed or being transferred against your will?,3
+59296,5283,21,Feel conflicts were resolved in a fair way?,1
+59296,5283,19,Feel that management trusted the employees to do their work well?,2
+59296,5283,20,Trust management?,1
+59208,5286,10,Feel intolerant of anything that kept you from what you were doing?,1
+59296,5283,22,Feel work negatively affected your private life?,2
+59296,5283,23,Get exposed to undesired sexual attention or violence?,0
+59296,5283,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59208,5286,1,Individual,4
+59208,5286,3,Social,4
+59208,5286,12,Get behind in your work?,1
+59208,5286,14,Find your work meaningful?,3
+59208,5286,23,Get exposed to undesired sexual attention or violence?,0
+59208,5286,2,Interpersonal,3
+59208,5286,6,Feel that life was meaningless?,0
+59208,5286,7,Feel scared without any good reason?,0
+59208,5286,9,Found it hard to wind down?,1
+59208,5286,13,Influence decisions concerning your work?,1
+59208,5286,16,Feel treated fairly at work?,3
+59208,5286,17,Feel there is a good relationship with your colleagues?,3
+59208,5286,18,Worry about becoming unemployed or being transferred against your will?,0
+59208,5286,19,Feel that management trusted the employees to do their work well?,3
+59208,5286,20,Trust management?,3
+59208,5286,21,Feel conflicts were resolved in a fair way?,3
+59208,5286,22,Feel work negatively affected your private life?,1
+59208,5286,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
+59208,5286,4,Overall,4
+59208,5286,5,Feel you had nothing to look forward to?,0
+59208,5286,8,Feel you were close to panic?,0
+59208,5286,11,"Feel guilty about substance use (alcohol, drugs, etc)?",1
+59208,5286,15,Feel recognized and appreciated at work?,3
+59320,5301,4,Overall,3
+59320,5301,6,Feel that life was meaningless?,1
+59320,5301,15,Feel recognized and appreciated at work?,0
+59320,5301,1,Individual,2
+59320,5301,17,Feel there is a good relationship with your colleagues?,1
+59320,5301,23,Get exposed to undesired sexual attention or violence?,0
+59320,5301,2,Interpersonal,2
+59320,5301,9,Found it hard to wind down?,2
+59320,5301,3,Social,4
+59320,5301,5,Feel you had nothing to look forward to?,2
+59320,5301,7,Feel scared without any good reason?,0
+59320,5301,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59320,5301,12,Get behind in your work?,1
+59320,5301,8,Feel you were close to panic?,0
+59320,5301,18,Worry about becoming unemployed or being transferred against your will?,1
+59320,5301,10,Feel intolerant of anything that kept you from what you were doing?,1
+59320,5301,13,Influence decisions concerning your work?,0
+59320,5301,14,Find your work meaningful?,1
+59320,5301,16,Feel treated fairly at work?,1
+59320,5301,20,Trust management?,0
+59320,5301,22,Feel work negatively affected your private life?,2
+59320,5301,19,Feel that management trusted the employees to do their work well?,1
+59320,5301,21,Feel conflicts were resolved in a fair way?,1
+59320,5301,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59352,5313,1,Individual,3
+59352,5313,2,Interpersonal,4
+59352,5313,3,Social,2
+59352,5313,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59241,5316,7,Feel scared without any good reason?,1
+59352,5313,4,Overall,3
+59352,5313,5,Feel you had nothing to look forward to?,0
+59352,5313,16,Feel treated fairly at work?,3
+59352,5313,6,Feel that life was meaningless?,0
+59352,5313,17,Feel there is a good relationship with your colleagues?,2
+59241,5316,19,Feel that management trusted the employees to do their work well?,2
+59352,5313,19,Feel that management trusted the employees to do their work well?,3
+59352,5313,12,Get behind in your work?,2
+59352,5313,15,Feel recognized and appreciated at work?,1
+59352,5313,7,Feel scared without any good reason?,1
+59352,5313,10,Feel intolerant of anything that kept you from what you were doing?,1
+59352,5313,21,Feel conflicts were resolved in a fair way?,3
+59352,5313,8,Feel you were close to panic?,2
+59352,5313,9,Found it hard to wind down?,1
+59241,5316,3,Social,3
+59241,5316,8,Feel you were close to panic?,1
+59352,5313,13,Influence decisions concerning your work?,2
+59352,5313,14,Find your work meaningful?,1
+59352,5313,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,1
+59352,5313,18,Worry about becoming unemployed or being transferred against your will?,1
+59352,5313,20,Trust management?,3
+59352,5313,22,Feel work negatively affected your private life?,3
+59352,5313,23,Get exposed to undesired sexual attention or violence?,0
+59241,5316,1,Individual,3
+59241,5316,2,Interpersonal,2
+59241,5316,4,Overall,3
+59241,5316,5,Feel you had nothing to look forward to?,1
+59241,5316,6,Feel that life was meaningless?,0
+59241,5316,9,Found it hard to wind down?,1
+59241,5316,10,Feel intolerant of anything that kept you from what you were doing?,0
+59241,5316,11,"Feel guilty about substance use (alcohol, drugs, etc)?",0
+59241,5316,12,Get behind in your work?,1
+59241,5316,14,Find your work meaningful?,2
+59241,5316,15,Feel recognized and appreciated at work?,2
+59241,5316,13,Influence decisions concerning your work?,1
+59241,5316,16,Feel treated fairly at work?,2
+59241,5316,17,Feel there is a good relationship with your colleagues?,2
+59241,5316,18,Worry about becoming unemployed or being transferred against your will?,0
+59241,5316,20,Trust management?,2
+59241,5316,21,Feel conflicts were resolved in a fair way?,2
+59241,5316,22,Feel work negatively affected your private life?,1
+59241,5316,23,Get exposed to undesired sexual attention or violence?,0
+59241,5316,24,Were bullied (repeated exposure to unpleasant or degrading treatment)?,0
