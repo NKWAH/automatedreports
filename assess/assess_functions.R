@@ -23,20 +23,7 @@ age_na <- function(x) {
   }
 }
 
-#Chooses correct colours based on number of colours
-num_colours <- function(x) {
-  switch(x,
-         "#2B83BA",
-         c("#2B83BA", "#D7191C"),
-         c("#2B83BA", "#ABDDA4", "#D7191C"),
-         c("#2B83BA", "#FDAE61", "#ABDDA4", "#D7191C"),
-         c("#2B83BA", "#FDAE61", "#FFFF99", "#ABDDA4", "#D7191C"),
-         c("#D7191C", "#FDAE61", "#FFFF99", "#ABDDA4", "#2B83BA", "#5E4FA2"),
-         c("#D7191C", "#FDAE61", "#FFFF99", "#ABDDA4", "#9999ff", "#5E4FA2", "#2B83BA"),
-         c("#D7191C", "#FFD8CA", "#FDAE61", "#FFFF99", "#ABDDA4", "#9999ff", "#5E4FA2", "#2B83BA"))
-}
-
-#Does the same as num_colours but keeps blue and
+#Chooses correct colours for graphs based on number of groupings
 num_colours <- function(x) {
   switch(x,
          "#D7191C",
@@ -48,6 +35,7 @@ num_colours <- function(x) {
 }
 
 #ORS
+#Formats scores for ORS severity graph - uses get_ors_domains and get_ors_average
 get_ors <- function(data, group) {
   ors_domains <- get_ors_domains(data, group)
   ors_average <- get_ors_average(ors_domains, group)
@@ -56,6 +44,7 @@ get_ors <- function(data, group) {
   return(ors)
 }
 
+#Finds average values of the ORS domains based on grouping
 get_ors_domains <- function(data, group) {
   group <- syms(c("Question.ID", "Question.Text", group))
   return(data %>%
@@ -66,6 +55,7 @@ get_ors_domains <- function(data, group) {
            ungroup())
 }
 
+#Finds overall average of all domains based on grouping
 get_ors_average <- function(data, group) {
   if (length(group) != 0) {
     group <- syms(group)
@@ -79,6 +69,7 @@ get_ors_average <- function(data, group) {
   return(average)
 }
 
+#Finds percentage of employees reporting symptoms of each psychological domain based on grouping
 get_psych_symptoms <- function(data, group) {
   first_group = c("component", "User_ID", group)
   second_group = c("component", group)
@@ -94,6 +85,7 @@ get_psych_symptoms <- function(data, group) {
   return(psych_symptoms)
 }
 
+#Finds workplace mental health scores for each domain based on grouping
 get_workplace <- function(data, group) {
   group <- c("component", group)
   data %>%
@@ -104,6 +96,7 @@ get_workplace <- function(data, group) {
     arrange(component)
 }
 
+#Combines benchmark data with regular company data into one data frame
 add_bm <- function(data, benchmarks, company_name) {
   data$Group <- company_name
   new_data <- rbind(data, benchmarks)
@@ -112,7 +105,7 @@ add_bm <- function(data, benchmarks, company_name) {
 }
 
 
-#General graph functions for title and generation
+#General graph functions for title and saving
 graph_title <- function(title) {
   ggplot() +
     ggtitle(title) +
@@ -138,6 +131,7 @@ generate_graph <- function(title, graph_title, graph, graph_xlab, width = 1000, 
   dev.off()
 }
 
+#Converts demographic data into percentages and coordinates for pie graphs
 get_pie_data <- function(data, group, threshold = 0.1) {
   pie_graph_data <- data %>%
     filter(!is.na(group), group != "") %>%
@@ -154,6 +148,7 @@ get_pie_data <- function(data, group, threshold = 0.1) {
   return(pie_graph_data)
 }
 
+#Creates the pie_graph image (exported by generate_pie_graph)
 get_pie_graph <- function(data, group, num_fill, threshold = 0.1) {
   ggplot(data, aes_string(x = 1, y = "percent", fill = group)) +
     geom_bar(width = 1 , stat = "identity", colour = "black") +
@@ -176,14 +171,7 @@ get_pie_graph <- function(data, group, num_fill, threshold = 0.1) {
     geom_text_repel(aes(x = xpos, y = ypos, label = ifelse(percent<threshold, percent(percent, accuracy = 0.1), "")), nudge_x  = 0.5, size = 7.5)
 }
 
-pie_title <- function(group) {
-    ggplot() +
-    ggtitle(paste("Respondent", capitalize(group), "Breakdown")) +
-    geom_point() +
-    theme_void() +
-    theme(plot.title = element_text(size = 30, hjust = 0.5, vjust = -0.5))
-}
-  
+#Like generate_graph but doesn't need xlab
 generate_pie_graph <- function(file_name, title, graph, width = 1300, height = 1000, res = 120) {
   png(paste(file_name, ".png", sep = ""), width = width, height = height, res = res)
   grid.arrange(
@@ -212,29 +200,8 @@ get_severity_graph <- function(data, fill, num_groups) {
            coord_cartesian(ylim = c(0.15,4)) +
            scale_fill_manual(values = num_colours(num_groups)))
 }
-#Psych symptoms graph
-get_psych_symptoms_graph <- function(data, fill, num_groups, labels = FALSE) {
-  graph <- ggplot(data, aes_string(x = "component", y = "Percent", fill = fill)) +
-    geom_bar(stat = "identity", position = "dodge") +
-    theme_minimal() +
-    theme(axis.text.x = element_text(size = 11.5, angle = 45, hjust = 1), 
-          axis.text.y = element_text(size = 11.5),
-          axis.title.x = element_blank(),
-          axis.title.y = element_text(size = 15, margin = margin(t = 0, r = 10, b = 0, l = 0)),
-          legend.title = element_text(size= 14),
-          legend.text = element_text(size = 11.5)) +
-    ylab("Percent of Employees") +
-    labs(fill = fill) +
-    scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
-    scale_fill_manual(values = num_colours(num_groups)) +
-    scale_x_discrete(labels = c("Anxiety", "Low Mood", "Stress", "Addiction"))
-  if (labels) {
-    graph <- graph + 
-      geom_text(aes(label = percent(Percent, accuracy = 0.1), vjust = -0.5), position = position_dodge(width = 1), size = 3.25)
-  }
-  return(graph)
-}
 
+#Psych symptoms graph
 get_psych_symptoms_graph <- function(data, fill, num_groups, labels = FALSE) {
   graph <- ggplot(data, aes_string(x = "component", y = "Percent", fill = fill)) +
     geom_bar(stat = "identity", position = "dodge") +
